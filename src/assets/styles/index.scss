@@ -1,3 +1,4 @@
+@import 'fonts';
 $blue: darkslateblue;
 $bg-body: antiquewhite;
 
@@ -5,21 +6,96 @@ html,
 body {
   height: 100%;
   margin: 0;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: AirLand, Arial, sans-serif;
 }
 
 body {
   background-color: $bg-body;
+  background-image: url("/assets/images/TM9.jpg");
+  background-size: cover;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  flex-direction: column;
 }
 
 h1 {
-  color: $blue;
+  color: black;
+  font-size: 3rem;
+}
+p, li {
+  font-family: AirLand;
+  font-size: .7rem;
 }
 
 img {
   width: 15vw;
   max-width: 6.25rem;
+}
+
+.header-container {
+  margin: 0 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  .contact {
+    text-align: center;
+    p {
+      margin: 0;
+    }
+  }
+}
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav {
+  margin: 0;
+  list-style: none;
+  height: 60vh;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  li {
+    font-style: italic;
+    color: black;
+    padding: .75rem 2rem;
+    font-size: 1rem;
+    border: 1px solid black;
+    border-radius: 50%;
+    &:hover {
+      background: white;
+    }
+  }
+}
+
+.main-content {
+  background: white;
+  border: 1px solid black;
+  width: 70ch;
+  height: 60vh;
+  overflow: scroll;
+  padding: 2rem;
+  margin-right: 2rem;
+}
+
+.wst {
+  font-family: WasteLand;
+} .mtn {
+  font-family: Mountain;
+} .mdw {
+  font-family: Meadow;
+} .glc {
+  font-family: Glacier;
+} .frst {
+  font-family: Forest;
+} .flwr {
+  font-family: Flower;
+} .dsrt {
+  font-family: Desert;
+} .an-soul {
+  font-family: AnimalSoul;
+} .air-land {
+  font-family: AirLand;
 }

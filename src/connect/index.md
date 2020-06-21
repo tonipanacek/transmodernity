@@ -1,0 +1,13 @@
+---
+title: TRANSMODERNITY - Protagonists
+description: TBD
+date: 2019-04-16
+tags:
+  - film
+layout: layouts/default.njk
+---
+
+We love to hear from you.
+
+So if you have any questions, feedback, inspiration, ideas to collaborate or if you would us to host a workshop or you/your community would like to organize a screening to show our film,
+please feel free to contact us!

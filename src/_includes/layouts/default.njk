@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html class="{{ htmlClass }}" lang="{{ site.lang }}">
+  <head>
+    {% include "../_head.njk" %}
+  </head>
+  <body class="{{ bodyClass }}">
+    <header>
+      {% include "../_header.njk" %}
+    </header>
+    <div class="flex-container">
+      <nav>
+        {% include "../_nav.njk" %}
+      </nav>
+      <main>
+        {% include 'main.njk' %}
+        <!-- {{ content | safe }} -->
+      </main>
+    </div>
+  </body>
+</html>

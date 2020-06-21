@@ -1,0 +1,48 @@
+alexa:
+  - name: Alexa Clay
+  - role: Anthropologist & Culture Hacker
+  - url: http://www.alexaclay.com/
+federic:
+  - name: Federic Sonnenberg
+  - role: Product Designer, Maker & KAOS Co-founder
+  - url: https://kaosberlin.de/
+hans:
+  - name: Hans Cousto
+  - role: Mathematician, Music Scientist & Drug Expert
+  - url: https://planetware.de/tune_in/cousto/biographie.html
+irena:
+  - name: Irena Ateljevic
+  - role: Human Geographer, Social Entrepreneur & Environmental Activist
+  - url: https://www.terrameera.com/who-are-we
+jascha:
+  - name: Jascha Vogel
+  - role: Media Designer & KAOS Co-Founder
+  - url: https://kaosberlin.de/
+lidija:
+  - name: Lidija Andonov
+  - role: Actress, Singer & Drama Therapist
+  - url: http://www.alexaclay.com/
+miriam:
+  - name: Miriam Hapig
+  - role: Social Worker & Manager of Habibi.Works
+  - url: https://habibi.works/
+mischa:
+  - name: Mischa Badasyan
+  - role: Activist, Social Worker & Performance Artist
+  - url: https://vimeo.com/mischabadasyan
+musab:
+  - name: Musab Almawed
+  - role: Electrician, studied law (but then the war broke out), currently Camp Teacher
+  - url: https://habibi.works/
+pedro:
+  - name: Pedro Jardim
+  - role: Senior Agile Consultant & System Prototyper
+  - url: https://www.linkedin.com/in/pedro-jardim-83232a48/
+satish:
+  - name: Satish Kumar
+  - role: Author, Environmental Activist & Founder of Schumacher College
+  - url: https://en.wikipedia.org/wiki/Satish_Kumar
+tina:
+  - name: Tina Ateljevic
+  - role: Co-Founder of Terra Meera & Community Manager at the CoCreagency
+  - url: https://www.linkedin.com/in/tina-ateljevic-b39b50175/
