@@ -131,7 +131,10 @@ img {
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
-  button {
+  .nav-group {
+    position: relative;
+  }
+  .nav-button {
     font-style: italic;
     color: black;
     background-color: transparent;
@@ -139,17 +142,22 @@ img {
     font-size: 1rem;
     border: 1px solid black;
     border-radius: 50%;
-    position: relative;
     &:hover {
       background: white;
+      .submenu {
+        display: block;
+      }
     }
   }
   .submenu {
+    display: none;
+    list-style: none;
     background: white;
     border: 1px solid black;
     padding: 1rem;
     position: absolute;
-    top: 0;
+    top: -40px;
+    right: -120px;
     a {
       font-size: .6rem;
       text-decoration: none;
@@ -161,7 +169,7 @@ img {
 .main-content {
   background: white;
   border: 1px solid black;
-  width: 70ch;
+  max-width: 70ch;
   max-height: 60vh;
   overflow: scroll;
   padding: 2rem;

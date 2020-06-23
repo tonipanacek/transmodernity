@@ -1,14 +1,21 @@
-<ul class="nav">
+<div class="nav">
   <div class="nav-group">
     <button class="nav-button">film</button>
-    <div class="submenu">
+    <ul class="submenu">
       {% for page in collections.film %}
       <li><a href="{{ page.url | url }}">{{ page.data.title }}</a></li>
       {% endfor %}
-    </div>
+    </ul>
   </div>
-  <button class="nav-button">movement</button>
+  <div class="nav-group">
+    <button class="nav-button">movement</button>
+    <ul class="submenu">
+      {% for page in collections.movement %}
+      <li><a href="{{ page.url | url }}">{{ page.data.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
   <button class="nav-button">creators</button>
   <button class="nav-button">connect</button>
-</ul>
+</div>
 
