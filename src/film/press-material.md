@@ -5,6 +5,7 @@ date: 2019-04-16
 tags:
   - film
 layout: layouts/default.njk
+bgImage: TM3
 ---
 TRANSMODERNITY - THE NEW NOW
 By Luisa Dahringer & Halea Isabelle Kala

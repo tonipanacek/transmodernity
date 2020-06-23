@@ -5,6 +5,7 @@ date: 2019-04-10
 tags:
   - film
 layout: layouts/default.njk
+bgImage: TM3
 ---
 
 Let’s collaborate!
@@ -13,8 +14,10 @@ Host a screening for your community: your school, university, co-living project,
 
 How?
 
-Buy the film here (links to: https://vimeo.com/ondemand/transmodernity) and show it.
-Get in touch with us! (links to: connect@transmodernity.org)
+Buy the film [here](https://vimeo.com/ondemand/transmodernity) and show it.
+
+[Get in touch with us!](mailto:connect@transmodernity.org)
+
 We can send you info material on how to host a screening for educative purposes or elsewhere
 We can also help you to promote your event and are happy to participate in (virtual) Q&A sessions worldwide.
 

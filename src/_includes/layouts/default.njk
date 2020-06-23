@@ -3,14 +3,12 @@
   <head>
     {% include "../_head.njk" %}
   </head>
-  <body class="{{ bodyClass }}">
+  <body style="background-image: url('/assets/images/{% if bgImage %}{{ bgImage }}{% endif %}.jpg');">
     <header>
       {% include "../_header.njk" %}
     </header>
     <div class="flex-container">
-      <nav>
-        {% include "../_nav.njk" %}
-      </nav>
+      {% include "../_nav.njk" %}
       <main>
         {% block main %}
           {% include '_main.njk' %}

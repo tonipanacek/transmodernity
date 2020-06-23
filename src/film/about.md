@@ -6,6 +6,7 @@ date: 2019-04-17
 tags:
   - film
 layout: layouts/default.njk
+bgImage: TM3
 ---
 
 TRANSMODERNITY - THE NEW NOW
@@ -26,17 +27,19 @@ PAST PRESS
 
 Articles:
 
-The transformation of our modernity
-https://medium.com/femgems/the-trans-formation-of-our-modernity-8068ff4aeac7
+[The transformation of our modernity](https://medium.com/femgems/the-trans-formation-of-our-modernity-8068ff4aeac7)
+
 
 Podcasts:
 
-Indie Talk Film
-Spotify: https://spoti.fi/3cFSuE9  iTunes: https://apple.co/2Ebc5z2 Webseite: https://bit.ly/2RYuhBi (chose website if only one link is allowed)
+Indie Talk Film:
+[Spotify](https://spoti.fi/3cFSuE9) //
+[iTunes](https://apple.co/2Ebc5z2) //
+[Website](https://bit.ly/2RYuhBi)
 
-Therapy of Dance
-Spotify:https://open.spotify.com/episode/6dRjHlQLqgx2aL6FNioxEg?si=sK-CKHSnR4WERgNHv5Dz1Q
-iTunes:https://podcasts.apple.com/us/podcast/therapy-of-dance-in-conversation/id1465784324
-Website: https://wavve.link/gEiBitscG
+Therapy of Dance:
+[Spotify](https://open.spotify.com/episode/6dRjHlQLqgx2aL6FNioxEg?si=sK-CKHSnR4WERgNHv5Dz1Q) //
+[iTunes](https://podcasts.apple.com/us/podcast/therapy-of-dance-in-conversation/id1465784324) //
+[Website](https://wavve.link/gEiBitscG)
 
 

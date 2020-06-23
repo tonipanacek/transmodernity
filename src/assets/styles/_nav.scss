@@ -1,0 +1,41 @@
+.nav {
+  margin: 0;
+  margin-left: 2rem;
+  list-style: none;
+  height: 60vh;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-around;
+  .nav-group {
+    position: relative;
+  }
+  .nav-button {
+    font-style: italic;
+    color: black;
+    background-color: transparent;
+    padding: .75rem 2rem;
+    font-size: 1rem;
+    border: 1px solid black;
+    border-radius: 50%;
+    &:hover {
+      background: white;
+    }
+  }
+  .submenu {
+    list-style: none;
+    background: white;
+    border: 1px solid black;
+    padding: 1rem;
+    position: absolute;
+    top: -40px;
+    right: -120px;
+    z-index: 5;
+    a {
+      font-size: .6rem;
+      text-decoration: none;
+      color: black;
+    }
+  }
+}

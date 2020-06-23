@@ -1,21 +1,32 @@
-<div class="nav">
-  <div class="nav-group">
-    <button class="nav-button">film</button>
-    <ul class="submenu">
-      {% for page in collections.film %}
-      <li><a href="{{ page.url | url }}">{{ page.data.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
-  <div class="nav-group">
-    <button class="nav-button">movement</button>
-    <ul class="submenu">
-      {% for page in collections.movement %}
-      <li><a href="{{ page.url | url }}">{{ page.data.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
-  <button class="nav-button">creators</button>
-  <button class="nav-button">connect</button>
-</div>
-
+<nav aria-label="Main Navigation">
+  <ul>
+    <li class="has-submenu">
+      <!-- <a href="#" aria-haspopup="true" aria-expanded="false">film</a> -->
+      film
+      <ul>
+        {% for page in collections.film %}
+          <li><a href="{{ page.url | url }}">{{ page.data.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </li>
+    <li class="has-submenu">
+      <!-- <a href="#" aria-haspopup="true" aria-expanded="false">movement</a> -->
+      movement
+      <ul>
+        {% for page in collections.movement %}
+          <li><a href="{{ page.url | url }}">{{ page.data.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </li>
+    <li class="has-submenu">
+      <!-- <a href="" aria-haspopup="true" aria-expanded="false">creators</a> -->
+      creators
+      <ul>
+        {% for page in collections.creators %}
+          <li><a href="{{ page.url | url }}">{{ page.data.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </li>
+    <li><a href="/connect">connect</a></li>
+  </ul>
+</nav>

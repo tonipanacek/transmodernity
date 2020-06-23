@@ -1,6 +1,6 @@
 @import 'fonts';
-$blue: darkslateblue;
-$bg-body: antiquewhite;
+@import 'nav';
+@import 'card';
 
 html,
 body {
@@ -10,20 +10,15 @@ body {
 }
 
 body {
-  background-color: $bg-body;
-  background-image: url("/assets/images/TM9.jpg");
+  background-color: white;
+  background-image: url("/assets/images/TM3.jpg");
   background-size: cover;
   display: flex;
   flex-direction: column;
 }
 
-main {
-  flex-grow: 1;
-}
-
 nav {
-  flex-grow: 2;
-  display: flex;
+  width: 30ch;
 }
 
 h1 {
@@ -39,6 +34,12 @@ h2,h3,h4,h5,h6 {
   margin: .75rem 0;
 }
 
+a {
+  color: black;
+}
+
+ul { list-style: none; }
+
 p, li {
   font-family: AirLand;
   font-size: .7rem;
@@ -46,63 +47,6 @@ p, li {
 
 .big {
   font-size: 2rem;
-}
-
-.card-container {
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
-  width: 70ch;
-  height: 80vh;
-  overflow: scroll;
-  padding-top: 5px;
-  .card {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-direction: column;
-    height: 235px;
-    width: 275px;
-    margin-bottom: 2rem;
-    .image {
-      width: 100%;
-      height: 20ch;
-      background-size: cover;
-      background-position: center;
-      position: relative;
-      &:hover {
-        .hidden {
-          display: block;
-          z-index: 100;
-        }
-      }
-      .hidden {
-        position: absolute;
-        top: -15px;
-        right: -10px;
-        z-index: 5;
-      }
-    }
-  }
-  .floating-title {
-    max-width: 20ch;
-    background: white;
-    border: 1px solid black;
-    padding: 4px 12px;
-    font-style: italic;
-    font-weight: bold;
-    text-align: center;
-    a {
-      color: black;
-    }
-    &.hidden {
-      display: none;
-    }
-  }
-}
-
-img {
-  width: 100%;
 }
 
 .header-container {
@@ -117,59 +61,16 @@ img {
     }
   }
 }
+
 .flex-container {
   display: flex;
   justify-content: space-between;
 }
 
-.nav {
-  margin: 0;
-  list-style: none;
-  height: 60vh;
-  width: auto;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-around;
-  .nav-group {
-    position: relative;
-  }
-  .nav-button {
-    font-style: italic;
-    color: black;
-    background-color: transparent;
-    padding: .75rem 2rem;
-    font-size: 1rem;
-    border: 1px solid black;
-    border-radius: 50%;
-    &:hover {
-      background: white;
-      .submenu {
-        display: block;
-      }
-    }
-  }
-  .submenu {
-    display: none;
-    list-style: none;
-    background: white;
-    border: 1px solid black;
-    padding: 1rem;
-    position: absolute;
-    top: -40px;
-    right: -120px;
-    a {
-      font-size: .6rem;
-      text-decoration: none;
-      color: black;
-    }
-  }
-}
-
 .main-content {
   background: white;
   border: 1px solid black;
-  max-width: 70ch;
+  width: 70ch;
   max-height: 60vh;
   overflow: scroll;
   padding: 2rem;
@@ -180,27 +81,6 @@ img {
   height: 60vh;
   width: 70ch;
 }
-
-.wst {
-  font-family: WasteLand;
-} .mtn {
-  font-family: Mountain;
-} .mdw {
-  font-family: Meadow;
-} .glc {
-  font-family: Glacier;
-} .frst {
-  font-family: Forest;
-} .flwr {
-  font-family: Flower;
-} .dsrt {
-  font-family: Desert;
-} .an-soul {
-  font-family: AnimalSoul;
-} .air-land {
-  font-family: AirLand;
-}
-
 
 @media only screen and (max-width : 340px) {
   .contact {

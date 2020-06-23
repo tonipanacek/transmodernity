@@ -1,10 +1,11 @@
 ---
-title: TRANSMODERNITY - Protagonists
+title: Connect
 description: TBD
 date: 2019-04-16
 tags:
   - connect
 layout: layouts/default.njk
+bgImage: TM11
 ---
 
 We love to hear from you.
