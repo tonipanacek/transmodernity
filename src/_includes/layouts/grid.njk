@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html class="{{ htmlClass }}" lang="{{ site.lang }}">
+  <head>
+    {% include "../_head.njk" %}
+  </head>
+  <body class="{{ bodyClass }}">
+    <header>
+      {% include "../_header.njk" %}
+    </header>
+    <div class="flex-container">
+      <nav>
+        {% include "../_nav.njk" %}
+      </nav>
+      <main>
+        <div class="card-container">
+          {% for protagonist in protagonistList %}
+            {% include '_image-card.njk' %}
+          {% endfor %}
+        </div>
+      </main>
+    </div>
+  </body>
+</html>

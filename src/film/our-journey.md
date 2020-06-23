@@ -1,5 +1,5 @@
 ---
-title: TRANSMODERNITY - Our Journey
+title: Our Journey
 description: TBD
 date: 2019-04-16
 tags:

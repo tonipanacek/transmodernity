@@ -1,8 +1,9 @@
 ---
-title: TRANSMODERNITY - Watch
+title: Watch
 description: TBD
 date: 2019-04-16
 tags:
   - film
-layout: layouts/default.njk
+layout: layouts/film.njk
 ---
+this is the film

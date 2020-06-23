@@ -1,7 +1,14 @@
 <ul class="nav">
-  <li>film</li>
-  <li>movement</li>
-  <li>connect</li>
-  <li>creators</li>
+  <div class="nav-group">
+    <button class="nav-button">film</button>
+    <div class="submenu">
+      {% for page in collections.film %}
+      <li><a href="{{ page.url | url }}">{{ page.data.title }}</a></li>
+      {% endfor %}
+    </div>
+  </div>
+  <button class="nav-button">movement</button>
+  <button class="nav-button">creators</button>
+  <button class="nav-button">connect</button>
 </ul>
 

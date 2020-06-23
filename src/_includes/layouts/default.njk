@@ -12,8 +12,9 @@
         {% include "../_nav.njk" %}
       </nav>
       <main>
-        {% include 'main.njk' %}
-        <!-- {{ content | safe }} -->
+        {% block main %}
+          {% include '_main.njk' %}
+        {% endblock %}
       </main>
     </div>
   </body>

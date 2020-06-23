@@ -1,5 +1,5 @@
 ---
-title: TRANSMODERNITY - Screenings
+title: Screenings
 description: TBD
 date: 2019-04-16
 tags:

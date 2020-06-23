@@ -1,5 +1,5 @@
 ---
-title: TRANSMODERNITY - Organize a Screening
+title: Organize a Screening
 description: TBD
 date: 2019-04-10
 tags:

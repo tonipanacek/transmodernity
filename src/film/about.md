@@ -1,5 +1,5 @@
 ---
-title: TRANSMODERNITY - THE NEW NOW
+title: About
 description: A film by Luisa Dahringer & Halea Isabelle Kala
 length: 2019 / 92 minutes
 date: 2019-04-17

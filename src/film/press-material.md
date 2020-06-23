@@ -1,5 +1,5 @@
 ---
-title: TRANSMODERNITY - Press Material
+title: Press Material
 description: TBD
 date: 2019-04-16
 tags:

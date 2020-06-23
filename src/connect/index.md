@@ -3,7 +3,7 @@ title: TRANSMODERNITY - Protagonists
 description: TBD
 date: 2019-04-16
 tags:
-  - film
+  - connect
 layout: layouts/default.njk
 ---
 
