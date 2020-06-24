@@ -1,41 +1,62 @@
 .nav {
   margin: 0;
   margin-left: 2rem;
-  list-style: none;
   height: 60vh;
   width: auto;
   display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: space-around;
-  .nav-group {
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+  a {
+    text-decoration: none;
+  }
+  .has-submenu {
     position: relative;
+  }
+  .submenu {
+    list-style: none;
+    display: none;
+    background: white;
+    border: 1px solid black;
+    padding: 1rem;
+    position: absolute;
+    z-index: 5;
+    min-width: 100px;
+    a {
+      font-size: .8rem;
+      text-decoration: none;
+      color: black;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+  #film .submenu {
+    top: -40px;
+    right: -150px;
+  }
+  #movement .submenu {
+    top: -40px;
+    right: -160px;
+  }
+  #creators .submenu {
+    top: -20px;
+    right: -120px;
   }
   .nav-button {
     font-style: italic;
     color: black;
     background-color: transparent;
     padding: .75rem 2rem;
-    font-size: 1rem;
+    font-size: 1.5rem;
     border: 1px solid black;
     border-radius: 50%;
     &:hover {
       background: white;
+      .submenu {
+        display: block;
+      }
     }
   }
-  .submenu {
-    list-style: none;
-    background: white;
-    border: 1px solid black;
-    padding: 1rem;
-    position: absolute;
-    top: -40px;
-    right: -120px;
-    z-index: 5;
-    a {
-      font-size: .6rem;
-      text-decoration: none;
-      color: black;
-    }
-  }
+
 }

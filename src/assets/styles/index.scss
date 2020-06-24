@@ -1,6 +1,7 @@
 @import 'fonts';
 @import 'nav';
 @import 'card';
+@import 'intro';
 
 html,
 body {
@@ -21,10 +22,12 @@ nav {
   width: 30ch;
 }
 
-h1 {
-  color: black;
-  font-size: 3rem;
-  font-weight: bold;
+.header-container {
+  h1 {
+    color: black;
+    font-size: 4rem;
+    font-weight: bold;
+  }
 }
 
 h2,h3,h4,h5,h6 {
@@ -42,7 +45,7 @@ ul { list-style: none; }
 
 p, li {
   font-family: AirLand;
-  font-size: .7rem;
+  font-size: .8rem;
 }
 
 .big {
@@ -70,11 +73,11 @@ p, li {
 .main-content {
   background: white;
   border: 1px solid black;
-  width: 70ch;
+  width: 90ch;
   max-height: 60vh;
   overflow: scroll;
   padding: 2rem;
-  margin-right: 2rem;
+  margin-right: 3rem;
 }
 
 .film-container {

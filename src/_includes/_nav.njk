@@ -1,32 +1,29 @@
 <nav aria-label="Main Navigation">
-  <ul>
-    <li class="has-submenu">
-      <!-- <a href="#" aria-haspopup="true" aria-expanded="false">film</a> -->
+  <ul class="nav">
+    <li class="has-submenu nav-button nav-button" id="film">
       film
-      <ul>
+      <ul class="submenu">
         {% for page in collections.film %}
           <li><a href="{{ page.url | url }}">{{ page.data.title }}</a></li>
         {% endfor %}
       </ul>
     </li>
-    <li class="has-submenu">
-      <!-- <a href="#" aria-haspopup="true" aria-expanded="false">movement</a> -->
+    <li class="has-submenu nav-button" id="movement">
       movement
-      <ul>
+      <ul class="submenu">
         {% for page in collections.movement %}
           <li><a href="{{ page.url | url }}">{{ page.data.title }}</a></li>
         {% endfor %}
       </ul>
     </li>
-    <li class="has-submenu">
-      <!-- <a href="" aria-haspopup="true" aria-expanded="false">creators</a> -->
+    <li class="has-submenu nav-button" id="creators">
       creators
-      <ul>
+      <ul class="submenu">
         {% for page in collections.creators %}
           <li><a href="{{ page.url | url }}">{{ page.data.title }}</a></li>
         {% endfor %}
       </ul>
     </li>
-    <li><a href="/connect">connect</a></li>
+    <li class="nav-button" id="connect"><a href="/connect">connect</a></li>
   </ul>
 </nav>
