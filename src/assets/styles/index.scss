@@ -2,6 +2,9 @@
 @import 'nav';
 @import 'card';
 @import 'intro';
+@import 'footer';
+@import 'header';
+@import 'film';
 
 html,
 body {
@@ -18,30 +21,24 @@ body {
   flex-direction: column;
 }
 
-nav {
-  width: 30ch;
-}
-
-.header-container {
-  h1 {
-    color: black;
-    font-size: 4rem;
-    font-weight: bold;
-  }
-}
-
 h2,h3,h4,h5,h6 {
-  font-size: .8rem;
+  font-size: 1rem;
   font-weight: bold;
   color: black;
   margin: .75rem 0;
+  text-transform: uppercase;
+  text-decoration: underline;
 }
 
 a {
   color: black;
 }
 
-ul { list-style: none; }
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
 
 p, li {
   font-family: AirLand;
@@ -52,37 +49,25 @@ p, li {
   font-size: 2rem;
 }
 
-.header-container {
-  margin: 0 2rem;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  .contact {
-    text-align: center;
-    p {
-      margin: 0;
-    }
-  }
-}
-
 .flex-container {
   display: flex;
   justify-content: space-between;
+  height: calc(100vh - 240px);
+  overflow: scroll;
+  margin: 0 2rem;
+  padding-top: 10px;
 }
 
 .main-content {
   background: white;
   border: 1px solid black;
-  width: 90ch;
-  max-height: 60vh;
+  max-width: 90ch;
+  height: auto;
   overflow: scroll;
-  padding: 2rem;
-  margin-right: 3rem;
-}
-
-.film-container {
-  height: 60vh;
-  width: 70ch;
+  padding: 1rem 2rem;
+  &.Screenings {
+    width: 90ch;
+  }
 }
 
 @media only screen and (max-width : 340px) {

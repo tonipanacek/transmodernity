@@ -1,0 +1,23 @@
+.header-container {
+  min-height: 160px;
+  margin: 0 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  .home {
+    text-decoration: none;
+    color: black;
+    font-size: 5vw;
+    font-weight: bold;
+  }
+  .contact {
+    text-align: center;
+    a {
+      font-size: 1vw;
+    }
+    p {
+      margin: 0;
+      font-size: 4vh;
+    }
+  }
+}

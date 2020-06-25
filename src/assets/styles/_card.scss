@@ -1,16 +1,14 @@
 img {
   width: 100%;
+  z-index: -1;
 }
 
 .card-container {
-  margin-right: 2rem;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-wrap: wrap;
-  width: 75ch;
-  height: 80vh;
-  overflow: scroll;
-  padding-top: 5px;
+  max-width: 100ch;
+  z-index: 0;
   .card {
     display: flex;
     align-items: center;
@@ -28,12 +26,12 @@ img {
       &:hover {
         .hidden {
           display: block;
-          z-index: 100;
+          z-index: 5;
         }
       }
       .hidden {
         position: absolute;
-        top: -15px;
+        bottom: 20px;
         right: -10px;
         z-index: 5;
       }
