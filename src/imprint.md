@@ -2,7 +2,7 @@
 layout: layouts/default.njk
 title: IMPRINT
 description: TBD
-bgImage: TM6
+bgImage: TM1
 ---
 
 ## ​IMPRINT
