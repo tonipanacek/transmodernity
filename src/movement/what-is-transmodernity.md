@@ -9,9 +9,7 @@ bgImage: TM9
 ---
 ## WHAT IS TRANSMODERNITY ?
 
-
 ### TRANSMODERNITY IS THE NEW NOW.
-
 
 Transmodernity is a philosophical concept. An umbrella term that describes the ongoing societal transformation processes of today and connotes emerging socio-cultural, economic, political and philosophical shift. It is more wide, deep and radical than what dominant economists and politicians call globalization and suggest inherent connection between diverse movements, fields of study and dreams dedicated to inner and outer transformation.
 
@@ -22,10 +20,8 @@ For us, it is a term that can be replaced by many and only serves to help indica
 Transmodernity is Now.
 
 
-Link to:
-The essay that got everything going
-https://drive.google.com/drive/folders/1b7clp-EPIAQe01cP8bvZZZ6ZPzcQOgS7
+[The essay that got everything going](https://drive.google.com/drive/folders/1b7clp-EPIAQe01cP8bvZZZ6ZPzcQOgS7)
 
-Link to:
-An introduction to Transmodernity
-https://vimeo.com/69534592
+
+[An introduction to Transmodernity](https://vimeo.com/69534592)
+

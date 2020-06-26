@@ -1,15 +1,39 @@
+@import 'breakpoints';
 .footer-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 0 2rem;
-  height: 80px;
+  height: 100px;
+  flex-direction: column;
+  margin: 2rem;
+  @include respond-to('large') {
+    height: 80px;
+    flex-direction: row;
+    margin: 0 2rem;
+  }
+  .contact {
+    display: flex;
+    min-width: 50%;
+    justify-content: space-evenly;
+    a, p {
+      font-size: 1rem;
+      line-height: 2rem;
+      &.big {
+        font-size: 1rem;
+        padding: 0 .5rem;
+      }
+    }
+    @include respond-to('large') {
+      display: none;
+    }
+  }
   a, p {
     margin: 0;
     font-size: .8rem;
     text-decoration: none;
   }
   .social-buttons {
+    margin-bottom: .5rem;
     a {
       img {
         width: 1.5rem;

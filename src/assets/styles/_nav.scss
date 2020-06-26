@@ -1,17 +1,25 @@
+@import 'breakpoints';
 nav {
+  display: none;
   width: 30ch;
   position: sticky;
   top: 0;
+  @include respond-to('large') {
+    display: block;
+  }
 }
 
-.nav {
+.main-nav {
+  display: none;
   margin: 0;
   height: 60vh;
   width: auto;
-  display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: space-around;
+  @include respond-to('large') {
+    display: flex;
+  }
   a {
     text-decoration: none;
   }

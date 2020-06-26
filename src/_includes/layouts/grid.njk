@@ -1,24 +1,7 @@
-<!DOCTYPE html>
-<html class="{{ htmlClass }}" lang="{{ site.lang }}">
-  <head>
-    {% include "../_head.njk" %}
-  </head>
-  <body style="background-image: url('/assets/images/{% if bgImage %}{{ bgImage }}{% endif %}.jpg');">
-    <header>
-      {% include "../_header.njk" %}
-    </header>
-    <div class="flex-container">
-      <nav>
-        {% include "../_nav.njk" %}
-      </nav>
-      <main>
-        <div class="card-container {% if title %}{{ title }}{% endif %}">
-          {{ content | safe }}
-        </div>
-      </main>
-    </div>
-     <footer>
-      {% include "../_footer.njk" %}
-    </footer>
-  </body>
-</html>
+{% extends './default.njk' %}
+
+{% block main %}
+  <div class="card-container {% if title %}{{ title }}{% endif %}">
+    {{ content | safe }}
+  </div>
+{% endblock %}

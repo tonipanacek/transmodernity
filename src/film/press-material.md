@@ -27,8 +27,8 @@ We’re an almost all female crew!
 
 ###### SOCIALS
 
-Website: www.transmodernity.org
-FB: https://www.facebook.com/transmodernitythefilm/
+Website: www.transmodernity.org\
+FB: https://www.facebook.com/transmodernitythefilm/\
 IG: @transmodernity
 
 ###### VOD LINK
@@ -39,20 +39,16 @@ www.vimeo.com/ondemand/transmodernity
 ###### PRESS KIT
 
 Download here:
-The PDF that needs to be connected here is in the 6. PRESS MATERIAL Folder.
 
-Download EPK
->> https://drive.google.com/drive/u/1/folders/1QJYoYevk9GL_8xz8WlpQfAyz7pyMbzi-
+[Download EPK](https://drive.google.com/drive/u/1/folders/1QJYoYevk9GL_8xz8WlpQfAyz7pyMbzi-)
 
 
 ###### FILM STILLS
 
-Download Stills
->> https://drive.google.com/drive/u/1/folders/0B3r3fZ5n7l9FRlNoNEJWY0ZWRGM
+[Download Stills](https://drive.google.com/drive/u/1/folders/0B3r3fZ5n7l9FRlNoNEJWY0ZWRGM)
 
 
 ###### POSTERS
 
-Download Posters
->> https://drive.google.com/drive/u/1/folders/1w-yVuypMKfNe2Bd5BRo3HB0MxeYunl3D
+[Download Posters](https://drive.google.com/drive/u/1/folders/1w-yVuypMKfNe2Bd5BRo3HB0MxeYunl3D)
 

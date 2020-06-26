@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html class="{{ htmlClass }}" lang="{{ site.lang }}">
   <head>
-    {% include "../_head.njk" %}
+    {% include "_head.njk" %}
   </head>
-  <body
-    style="background-image: url('/assets/images/{% if bgImage %}{{ bgImage }}{% endif %}.jpg');">
+  <body style="background-image: url('/assets/images/{% if bgImage %}{{ bgImage }}{% endif %}.jpg');">
     <header>
-      {% include "../_header.njk" %}
+      {% include "_header.njk" %}
     </header>
     <div class="flex-container">
-      {% include "../_nav.njk" %}
+      {% include "_nav.njk" %}
       <main>
         {% block main %}
           {% include '_main.njk' %}
@@ -17,7 +16,7 @@
       </main>
     </div>
     <footer>
-      {% include "../_footer.njk" %}
+      {% include "_footer.njk" %}
     </footer>
   </body>
 </html>

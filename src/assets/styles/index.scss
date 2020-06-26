@@ -5,19 +5,25 @@
 @import 'footer';
 @import 'header';
 @import 'film';
+@import 'breakpoints';
 
-html,
-body {
-  height: 100%;
-  margin: 0;
-  font-family: AirLand, Arial, sans-serif;
+// Global styles
+html {
+  scroll-behavior: smooth;
 }
-
 body {
   background-color: white;
   background-size: cover;
   display: flex;
   flex-direction: column;
+  background-attachment: fixed;
+  width: 100%;
+  font-family: AirLand, Arial, sans-serif;
+  margin: 0;
+  -webkit-text-size-adjust: none;
+  @include respond-to('large') {
+    -webkit-text-size-adjust: inherit;
+  }
 }
 
 main {
@@ -29,7 +35,7 @@ h2 {
   font-weight: bold;
   letter-spacing: 1px;
   color: black;
-  margin: .75rem 0;
+  margin: 1.5rem 0;
   text-transform: uppercase;
 }
 
@@ -65,22 +71,25 @@ p, li {
 .flex-container {
   display: flex;
   justify-content: space-between;
-  height: calc(100vh - 160px);
   overflow: scroll;
   margin: 0 2rem;
   padding-top: 10px;
+  @include respond-to('large') {
+    height: calc(100vh - 240px);
+  }
 }
 
 .main-content {
   background: white;
   border: 1px solid black;
-  max-width: 90ch;
-  max-height: calc(100vh - 160px);
-  overflow: scroll;
+  width: 100%;
+  height: auto;
+  overflow: visible;
   padding: 1rem 2rem;
-  p { width: 100%; }
-  &.Screenings, &.Producers, &.Partners {
-    width: 90ch;
+  @include respond-to('large') {
+    max-width: 90ch;
+    max-height: calc(100vh - 160px);
+    overflow: scroll;
   }
   &.Supporters {
     text-align: center;
@@ -88,11 +97,5 @@ p, li {
       width: 80%;
       margin: 0 auto;
     }
-  }
-}
-
-@media only screen and (max-width : 340px) {
-  .contact {
-    display: none;
   }
 }
