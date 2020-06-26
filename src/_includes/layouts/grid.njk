@@ -3,7 +3,7 @@
   <head>
     {% include "../_head.njk" %}
   </head>
-  <body class="{{ bodyClass }}">
+  <body style="background-image: url('/assets/images/{% if bgImage %}{{ bgImage }}{% endif %}.jpg');">
     <header>
       {% include "../_header.njk" %}
     </header>
@@ -12,10 +12,8 @@
         {% include "../_nav.njk" %}
       </nav>
       <main>
-        <div class="card-container">
-          {% for protagonist in protagonistList %}
-            {% include '_image-card.njk' %}
-          {% endfor %}
+        <div class="card-container {% if title %}{{ title }}{% endif %}">
+          {{ content | safe }}
         </div>
       </main>
     </div>

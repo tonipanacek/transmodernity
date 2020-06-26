@@ -1,5 +1,5 @@
 .film-container {
-  width: 90ch;
+  width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -8,6 +8,6 @@
 
 #film-text {
   width: auto;
-  height: 10vh;
+  height: 13vh;
   overflow: scroll;
 }

@@ -21,6 +21,10 @@ body {
   flex-direction: column;
 }
 
+main {
+  max-width: 100ch;
+}
+
 h2,h3,h4,h5,h6 {
   font-size: 1rem;
   font-weight: bold;
@@ -43,6 +47,7 @@ ul {
 p, li {
   font-family: AirLand;
   font-size: .8rem;
+  line-height: 1.2rem;
 }
 
 .big {
@@ -52,7 +57,7 @@ p, li {
 .flex-container {
   display: flex;
   justify-content: space-between;
-  height: calc(100vh - 240px);
+  height: calc(100vh - 160px);
   overflow: scroll;
   margin: 0 2rem;
   padding-top: 10px;
@@ -62,11 +67,19 @@ p, li {
   background: white;
   border: 1px solid black;
   max-width: 90ch;
-  height: 60vh;
+  max-height: calc(100vh - 160px);
   overflow: scroll;
   padding: 1rem 2rem;
-  &.Screenings {
+  p { width: 100%; }
+  &.Screenings, &.Producers, &.Partners {
     width: 90ch;
+  }
+  &.Supporters {
+    text-align: center;
+    p {
+      width: 80%;
+      margin: 0 auto;
+    }
   }
 }
 

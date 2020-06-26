@@ -7,3 +7,6 @@ tags:
 layout: layouts/grid.njk
 bgImage: TM3
 ---
+{% for person in protagonistList %}
+  {% include '_image-card.njk' %}
+{% endfor %}

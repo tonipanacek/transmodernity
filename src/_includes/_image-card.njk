@@ -1,9 +1,9 @@
 <div class="card">
-  <div class="image" style="background-image: url({{ protagonist.image }})">
-    <p class="floating-title hidden">{{ protagonist.role }}</p>
+  <div class="image" style="background-image: url({{ person.image }})">
+    <p class="floating-title hidden {% if person.name %}{{ person.name }}{% endif %}">{{ person.role }}</p>
   </div>
   <div class="floating-title">
-    <a href="{{ protagonist.url }}" rel="noopener noreferrer" target="_blank">{{ protagonist.name }}</a>
+    <a href="{{ person.url }}" rel="noopener noreferrer" target="_blank">{{ person.name }}</a>
   </div>
 </div>
 

@@ -1,3 +1,6 @@
 <div class="main-content {% if title %}{{ title }}{% endif %}">
  {{ content | safe }}
+ {% if contactForm %}
+  {% include '_form.njk' %}
+ {% endif%}
 </div>
