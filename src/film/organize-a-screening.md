@@ -8,11 +8,11 @@ layout: layouts/default.njk
 bgImage: TM3
 ---
 
-Let’s collaborate!
+## Let’s collaborate!
 
 Host a screening for your community: your school, university, co-living project, co-working space, eco village, conference, festival -- or wherever else you’d like to share the film.
 
-How?
+### How?
 
 Buy the film [here](https://vimeo.com/ondemand/transmodernity) and show it.
 

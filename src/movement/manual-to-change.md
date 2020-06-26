@@ -10,7 +10,7 @@ bgImage: TM9
 
 ## 10 THINGS YOU CAN START WITH TODAY
 
-Eat less meat & buy more organic
+### Eat less meat & buy more organic
 
 Industrial farming is the major culprit for the ecological disaster situation that our planet is in. Causing serious health issues in the farmers, their kids but also those who consume, leads to the extinction of thousands of species, 1 every 20 minutes, causes death of the soil and financial and psychological ruin of (especially the smaller) famers.
 
@@ -25,30 +25,30 @@ Many species that once lived in these forests were killed or deported.
 Our diversity of seeds is at risk by the few top players of the industry, that forced everyone else to bankruptcy. Retailers keep food prices low. Farmers are have to continue to destroy our living source.
 
 
-Change your energy supplier to green energy
+#### Change your energy supplier to green energy
 
 Fossil fuels contribute towards the pollution of our planet and encourage global warming. As they become more rare, prices will increase which causes geopolitical tension. Nuclear energy is not an alternative: it is dangerous, it consumes huge amounts of water and its toxic waste cannot be gotten rid of.
 
 By now many green energy providers do not even cost more than your previous subscription.
 
 
-Buy local and independent
+##### Buy local and independent
 
 You help facilitating their existence buy supporting them with your purchase and the money stays in your community, where it will find its way back to your advantage. When buying from a global conglomerate, hardly anything stays within your periphery. Most likely, the company is not even paying taxes in your home country and exploiting its workers.
 
 This also means cutting out the middle men: they are including in the price. You pay for the list of suppliers, when buying objects from far away. By cutting that out, you support your local farmer, artist etc. more directly and therefore return their autonomy to them.
 
 
-Change your bank
+###### Change your bank
 Your average big banks fund very destructive industries, are highly involved in lobbyism and engage in speculation with your money (housing, oil etc.) while securing their own safe incomes. The fake economy of intangible money is what has created this monster of hypercapitalism in the first place.
 In similar fashion to supporting a local shop, there are many green, honest, family-oriented co-op banks, that are happy to safeguard your money, investing into education, greener living or care for the elders. Some banks of the newer generation try to attract by planting trees for every purchase. While this is still a capitalist idea, it is much better than passively investing into deforestation and consequent endangering of life on earth.
 
-REFUSE
-REDUCE
-RE-USE
-RE-CYCLE
-RE-PAIR
-SHARE
+##### REFUSE
+##### REDUCE
+##### RE-USE
+##### RE-CYCLE
+##### RE-PAIR
+##### SHARE
 
 
 There is so much waste. Things we do not need. From the way our food is wrapped into plastic, to the fashion industry selling us an idea that we need new items every season.

@@ -9,11 +9,11 @@ layout: layouts/default.njk
 bgImage: TM3
 ---
 
-TRANSMODERNITY - THE NEW NOW
-A film by Luisa Dahringer & Halea Isabelle Kala
+## TRANSMODERNITY - THE NEW NOW
+A film by Luisa Dahringer & Halea Isabelle Kala\
 2019 / 92 minutes
 
-ABOUT
+### ABOUT
 
 TRANSMODERNITY -  is a documentary about changemakers that challenge and transform the current system by exploring new possibilities for transitioning into a new paradigm with alternative social, economic and cultural approaches. Transmodernity is the new now.
 
@@ -22,7 +22,7 @@ The film touches upon the need to reinvestigate our education, consumption, rela
 They stand as protagonists of this time of transition - and although at first glimpse they do not have much in common, they are connected through the sparkle in their eyes and their strong sense of feeling alive, as they contribute to holistic sociocultural change, each in their own way.
 TRANSMODERNITY aims to be an inspiration and appeal for you to re-connect, take responsibility, dream radically and act upon it.
 
-PAST PRESS
+#### PAST PRESS
 
 
 Articles:

@@ -9,7 +9,7 @@ bgImage: TM3
 ---
 ## Screenings
 
-UPCOMING:
+### UPCOMING:
 
 - @Alte Münze, DE
 - @Artlake Festival, DE
@@ -26,7 +26,7 @@ UPCOMING:
 - @Whitechapel Gallery London, UK
 
 
-PAST:
+#### PAST:
 
 - @Artlake Festival, DE
 - @Betahaus Berlin, DE

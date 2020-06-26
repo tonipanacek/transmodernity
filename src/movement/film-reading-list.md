@@ -12,45 +12,34 @@ bgImage: TM9
 
 ### FILMS
 
-Alphabet
-http://www.alphabet-film.com/
+[Alphabet](http://www.alphabet-film.com/)
 
-A Quest For Meaning
-https://www.youtube.com/watch?v=8yePCpWH3g0
+[A Quest For Meaning](https://www.youtube.com/watch?v=8yePCpWH3g0)
 
-Baraka / Samsara
-https://www.barakasamsara.com/
+[Baraka / Samsara](https://www.barakasamsara.com/)
 
-Cowspiracy
-https://www.cowspiracy.com/
+[Cowspiracy](https://www.cowspiracy.com/)
 
-Das System Milch
-https://www.youtube.com/watch?v=y7EquRwjfeo
+[Das System Milch](https://www.youtube.com/watch?v=y7EquRwjfeo)
 
-Earthlings
-https://www.youtube.com/watch?v=8gqwpfEcBjI
+[Earthlings](https://www.youtube.com/watch?v=8gqwpfEcBjI)
 
-Fantastic Fungi
-https://fantasticfungifilm.vhx.tv/products/fantastic-fungi-2
+[Fantastic Fungi](https://fantasticfungifilm.vhx.tv/products/fantastic-fungi-2)
 
-Free Lunch Society
-http://www.freelunchsociety.net/
+[Free Lunch Society](http://www.freelunchsociety.net/)
 
-Human
-https://www.youtube.com/watch?v=EgQqGxKKfTU
+[Human](https://www.youtube.com/watch?v=EgQqGxKKfTU)
 
-HyperNormalisation
-https://vimeo.com/191817381
+[HyperNormalisation](https://vimeo.com/191817381)
 
-Storytelling for Earthly Survival by Donna Haraway
-https://vimeo.com/ondemand/donnaharaway
+[Storytelling for Earthly Survival by Donna Haraway](https://vimeo.com/ondemand/donnaharaway)
 
-Tomorrow
-https://www.tomorrow-derfilm.de/
+[Tomorrow](https://www.tomorrow-derfilm.de/)
 
 
 #### READING
-*we would like to encourage you to buy from the authors website or order the book in your favorite independent bookshop. That being said, if your financial means are low, some of these can be found in pdf form online.
+
+\*we would like to encourage you to buy from the authors website or order the book in your favorite independent bookshop. That being said, if your financial means are low, some of these can be found in pdf form online.
 
 Alternative Modernities by Andrew Wachtel
 https://www.dukeupress.edu/alternative-modernities
@@ -75,6 +64,7 @@ https://www.thalia.de/shop/home/artikeldetails/ID143559326.html?ProvID=11000523&
 
 You Are, Therefore I Am: A Declaration of Dependence by Satish Kumar
 https://www.resurgence.org/shop/you-are-therefore-i-am-pr-1.html
+
 Sozialrevolution by Robert Reich, Yanis Varoufakis, BErik Brrynjolfsson, Michael D. Tanner Andrew L. Stern, Natali Foster, Georg Hasler, Albert Wenger, Dirk Helbing, Gerald Hüther, Philip Kovce, Armin Steuernagel und Börris Hornemann
 https://www.campus.de/buecher-campus-verlag/wirtschaft-gesellschaft/politik/sozialrevolution-10875.html
 
