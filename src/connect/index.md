@@ -6,7 +6,7 @@ tags:
   - connect
 layout: layouts/default.njk
 bgImage: TM11
-contactForm: true
+<!-- contactForm: true -->
 ---
 
 We love to hear from you.
