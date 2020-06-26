@@ -1,7 +1,7 @@
 ---
 layout: layouts/film.njk
 title: TRANSMODERNITY - THE NEW NOW
-bgImage: TM4
+bgImage: TM7
 ---
 {{ title }}\
 By Luisa Dahringer & Halea Isabelle Kala
