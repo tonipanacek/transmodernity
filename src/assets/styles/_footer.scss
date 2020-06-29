@@ -7,7 +7,7 @@
   flex-direction: column;
   margin: 2rem;
   @include respond-to('large') {
-    height: 80px;
+    height: 70px;
     flex-direction: row;
     margin: 0 2rem;
   }
@@ -30,9 +30,9 @@
   a, p {
     margin: 0;
     font-size: .8rem;
-    text-decoration: none;
   }
   .social-buttons {
+    text-decoration: none;
     margin-bottom: .5rem;
     a {
       img {

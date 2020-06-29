@@ -9,21 +9,20 @@
   .home {
     text-decoration: none;
     color: black;
-    font-size: 5vw;
-    font-weight: bold;
+    font-size: 7vw;
   }
   .contact {
     text-align: center;
     display: none;
-    @include respond-to('large') {
-      display: block;
-    }
     a {
       font-size: 1vw;
     }
     p {
       margin: 0;
       font-size: 4vh;
+    }
+    @include respond-to('large') {
+      display: block;
     }
   }
 }

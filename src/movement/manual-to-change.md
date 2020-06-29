@@ -55,7 +55,7 @@ There is so much waste. Things we do not need. From the way our food is wrapped 
 Landfills and beyond: beaches, rivers, oceans, forests: not a single place on earth is not contaminated by our waste. With our microplastic.
 We do not need more. We can re-use, re-cycle, re-pair, up-cycle, borrow, share.
 The less we buy, the we become complicit in a system that abuses of our resources and the less we become culprits in the toxic waste, the fumes of fire when burnt, cause serious health issues in those burning it, the microplastics that end up in our groundwater, damaging us and all the other living species living in/of it.
-There are many fun ways to engage with your items and waste (Zero Waste movement offers great blogs, Instagram accounts for inspiration).
+There are many fun ways to engage with your items and waste (Zero Waste movement offers great blogs, [Instagram accounts](https://www.treehugger.com/green-home/9-zero-waste-experts-you-should-follow-instagram.html) for inspiration).
 You can connect to sharing communities online.
 Get creative with what you have at hand.
 Grow a relationship to what you need and what is simply too much.
@@ -68,10 +68,10 @@ Get involved in local politics. Join a union. Run for office. Help with campaign
 
 Find something you feel passionate about. It may be offering help to neighbourhood students, your old neighbour, growing a garden, joining a local farm project, fighting gentrification. Whatever your thing is, pursue it with the time you have at hand and see how it makes you feel.
 
-Reduce your carbon footprint. There are fun online tools/apps that calculate your footprint to help you identify where your can improve: how about taking your bike to work next time?
+Reduce your carbon footprint. There are fun online tools/apps that calculate your footprint to help you identify where you can improve: how about taking your bike to work next time?
 
- Read the Transmodernity PDF. Confide that together, we can make the change happen. We are already making it happen. Now is the time to make an influence in which way we turn.
+ [Read the Transmodernity PDF](https://www.academia.edu/11582214/Transmodernity_Integrating_perspectives_on_societal_evolution). Confide that together, we can make the change happen. We are already making it happen. Now is the time to make an influence in which way we turn.
 
-And this is cute.
+And this is [cute](https://www.theguardian.com/environment/2020/feb/29/50-ways-to-green-up-your-life-save-the-planet).
 
 

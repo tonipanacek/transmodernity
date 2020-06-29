@@ -1,7 +1,7 @@
 @import 'breakpoints';
 nav {
   display: none;
-  width: 30ch;
+  min-width: 330px;
   position: sticky;
   top: 0;
   @include respond-to('large') {
@@ -10,18 +10,30 @@ nav {
 }
 
 .main-nav {
-  display: none;
   margin: 0;
   height: 60vh;
   width: auto;
+  display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: space-around;
-  @include respond-to('large') {
-    display: flex;
-  }
   a {
     text-decoration: none;
+  }
+  .nav-button {
+    font-style: italic;
+    color: black;
+    background-color: transparent;
+    padding: .75rem 2rem;
+    font-size: 3vh;
+    border: 1px solid black;
+    border-radius: 50%;
+    &:hover {
+      background: white;
+      .submenu {
+        display: block;
+      }
+    }
   }
   .has-submenu {
     position: relative;
@@ -55,21 +67,6 @@ nav {
   #creators .submenu {
     top: -20px;
     right: -120px;
-  }
-  .nav-button {
-    font-style: italic;
-    color: black;
-    background-color: transparent;
-    padding: .75rem 2rem;
-    font-size: 3vh;
-    border: 1px solid black;
-    border-radius: 50%;
-    &:hover {
-      background: white;
-      .submenu {
-        display: block;
-      }
-    }
   }
 
 }

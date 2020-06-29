@@ -1,11 +1,12 @@
 @import 'breakpoints';
 .intro-container {
   padding: 1rem 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   h1 {
-    font-size: 10rem;
-    letter-spacing: -25px;
+    font-size: 12vw;
     margin: 0;
-    word-break: break-word;
   }
   p {
     margin: 0;
@@ -23,7 +24,7 @@
       text-decoration: none;
       background-color: transparent;
       padding: .75rem 2rem;
-      font-size: 2.5rem;
+      font-size: 2rem;
       border: 1px solid black;
       border-radius: 50%;
       &:hover {
@@ -33,3 +34,11 @@
   }
 }
 
+// @include respond-to('large') {
+//   .intro-container {
+//     max-height: 100vh;
+//   }
+//   p {
+//     font-size: 4rem;
+//   }
+// }
