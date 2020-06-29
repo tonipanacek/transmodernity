@@ -1,0 +1,26 @@
+---
+title: Who Are We?
+description: TBD
+date: 2019-01-16
+tags:
+  - creators
+layout: layouts/grid.njk
+bgImage: TM2
+cssID: makers
+mainText: true
+---
+{% for person in creatorList %}
+  {% include '_image-card.njk' %}
+{% endfor %}
+
+
+<div class="main-content">
+  <p><a href="http://www.andreagomez.com">ANDREA GÓMEZ</a> // Colourist</p>
+  <p><a href="http://www.johanneskunz.com">JOHANNES KUNZ</a>  // Sound Designer</p>
+  <p><a href="http://www.marcgarreta.com">MARC GARRETA​</a> // Graphic Art Direction</p>
+  <p><a href="http://www.sublab.be">CÉLINE NEEF DE SAINVAL</a> // Crowdfunding Production Assistant </p>
+  <p><a href="http://www.habibi.works">ANGELINA KIKI HÖHER</a> // Driver & Production Sunshine </p>
+  <p>ANISA HAWLEY​ // Crowdfunding Event Production Assistant</p>
+  <p><a href="https://www.instagram.com/kellydiepenbrock/">KELLY DIEPENBROCK</a> // Visual Designs </p>
+  <p>ANTOINETTE PANACEK // Web Developer</p>
+</div>

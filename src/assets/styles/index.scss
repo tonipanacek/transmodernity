@@ -65,6 +65,7 @@ ul {
 p, li {
   font-family: AirLand;
   font-size: .8rem;
+  // margin: 0;
 }
 
 .big {
@@ -87,11 +88,9 @@ p, li {
   border: 1px solid black;
   overflow: visible;
   padding: 2rem 2rem;
-  flex: 1 0 auto;
+  flex: 1;
   @include respond-to('large') {
     max-width: 90ch;
-    // max-height: calc(100vh - 160px);
-    // overflow: scroll;
   }
   &.Supporters {
     text-align: center;

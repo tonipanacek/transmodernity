@@ -2,7 +2,7 @@
 
 .card-container {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   flex-wrap: wrap;
   max-width: 100ch;
   z-index: 0;
@@ -14,10 +14,6 @@
     height: 235px;
     width: 225px;
     margin-bottom: 2rem;
-    img {
-      width: 100%;
-      z-index: -1;
-    }
     .image {
       width: 100%;
       height: 20ch;
@@ -30,12 +26,6 @@
           z-index: 5;
         }
       }
-      .hidden {
-        position: absolute;
-        bottom: 20px;
-        right: -10px;
-        z-index: 5;
-      }
     }
   }
   .floating-title {
@@ -43,6 +33,7 @@
     background: white;
     border: 1px solid black;
     padding: 4px 12px;
+    margin: 0;
     font-style: italic;
     font-weight: bold;
     text-align: center;
@@ -51,18 +42,43 @@
     }
     &.hidden {
       display: none;
+      width: 100%;
     }
+  }
+  .maker-social {
+    img {
+      height: 1.5rem;
+      width: 1.5rem;
+    }
+  }
+
+  .socials {
+    margin-top: 1rem;
   }
 }
 
-.Makers {
-  max-width: 80ch;
-  padding: 1rem;
+#makers {
   .card {
-    height: 235px;
-    width: 275px;
+    height: auto;
+    width: 45%;
     .image {
-      height: 25vh;
+      height: 35vh;
     }
+  }
+  .hidden {
+    position: absolute;
+    max-width: 100%;
+    top: 0;
+    right: 0;
+    z-index: 5;
+  }
+}
+
+#protagonists {
+  .hidden {
+    position: absolute;
+    bottom: 20px;
+    right: -10px;
+    z-index: 5;
   }
 }

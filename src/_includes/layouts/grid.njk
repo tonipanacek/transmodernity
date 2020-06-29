@@ -1,7 +1,7 @@
 {% extends './default.njk' %}
 
 {% block main %}
-  <div class="card-container {% if title %}{{ title }}{% endif %}">
+  <div class="card-container" id="{% if cssID %}{{ cssID }}{% endif %}">
     {{ content | safe }}
   </div>
 {% endblock %}

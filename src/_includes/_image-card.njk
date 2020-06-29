@@ -1,10 +1,19 @@
 <div class="card">
   <div class="image" style="background-image: url({{ person.image }})">
-    <p class="floating-title hidden {% if person.name %}{{ person.name }}{% endif %}">{{ person.role }}</p>
+    <div class="floating-title hidden">
+      <p>{{ person.role }}</p>
+    </div>
   </div>
   <div class="floating-title">
     <a href="{{ person.url }}" rel="noopener noreferrer" target="_blank">{{ person.name }}</a>
   </div>
+  {% if person.social %}
+    <div class="floating-title socials">
+      {% for social, link in person.social %}
+        <a href="{{link}}" class="maker-social"><img src="/assets/images/{{social}}.png" alt="{{social}} icon"></a>
+      {% endfor %}
+    </div>
+  {% endif %}
 </div>
 
 

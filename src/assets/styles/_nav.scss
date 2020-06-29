@@ -2,6 +2,7 @@
 nav {
   display: none;
   min-width: 330px;
+  position: -webkit-sticky;
   position: sticky;
   top: 0;
   @include respond-to('large') {
@@ -11,9 +12,10 @@ nav {
 
 .main-nav {
   margin: 0;
-  height: 60vh;
-  width: auto;
+  width: 100%;
   display: flex;
+  flex: 1 100%;
+  height: 60vh;
   flex-direction: column;
   align-items: flex-start;
   justify-content: space-around;
@@ -47,6 +49,9 @@ nav {
     position: absolute;
     z-index: 100;
     min-width: 100px;
+    .current {
+      text-decoration: underline;
+    }
     a {
       font-size: .8rem;
       text-decoration: none;

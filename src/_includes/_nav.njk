@@ -1,27 +1,24 @@
 <nav aria-label="Main Navigation">
   <ul class="main-nav">
-    <li class="has-submenu nav-button nav-button" id="film">
-      film
+    <li class="has-submenu nav-button nav-button" id="film">film
       <ul class="submenu">
-        {% for page in collections.film %}
-          <li><a href="{{ page.url | url }}">{{ page.data.title }}</a></li>
+        {% for entry in collections.film %}
+          <li {% if entry.url == page.url %} class="current{%endif%}"><a href="{{ entry.url | url }}">{{ entry.data.title }}</a></li>
         {% endfor %}
-        <li><a href="https://vimeo.com/ondemand/transmodernity/408968792" target="_blank" rel="noopener noreferrer">Watch</a></li>
+        <li><a href="https://vimeo.com/ondemand/transmodernity/408968792" target="_blank" rel="noopener noreferrer">Watch &nearr;</a></li>
       </ul>
     </li>
-    <li class="has-submenu nav-button" id="movement">
-      movement
+    <li class="has-submenu nav-button" id="movement">movement
       <ul class="submenu">
-        {% for page in collections.movement %}
-          <li><a href="{{ page.url | url }}">{{ page.data.title }}</a></li>
+        {% for entry in collections.movement %}
+          <li {% if entry.url == page.url %} class="current{%endif%}"><a href="{{ entry.url | url }}">{{ entry.data.title }}</a></li>
         {% endfor %}
       </ul>
     </li>
-    <li class="has-submenu nav-button" id="creators">
-      creators
+    <li class="has-submenu nav-button" id="creators">creators
       <ul class="submenu">
-        {% for page in collections.creators %}
-          <li><a href="{{ page.url | url }}">{{ page.data.title }}</a></li>
+        {% for entry in collections.creators %}
+          <li {% if entry.url == page.url %} class="current{%endif%}"><a href="{{ entry.url | url }}">{{ entry.data.title }}</a></li>
         {% endfor %}
       </ul>
     </li>
