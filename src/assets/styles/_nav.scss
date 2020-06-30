@@ -30,6 +30,7 @@ nav {
     font-size: 3vh;
     border: 1px solid black;
     border-radius: 50%;
+    margin-left: 3px;
     &:hover {
       background: white;
       .submenu {
@@ -45,10 +46,13 @@ nav {
     display: none;
     background: white;
     border: 1px solid black;
-    padding: 1rem;
+    padding: .5rem 1rem;
     position: absolute;
     z-index: 100;
     min-width: 100px;
+    & > * {
+      margin-bottom: .2rem;
+    }
     .current {
       text-decoration: underline;
     }
@@ -56,6 +60,9 @@ nav {
       font-size: .8rem;
       text-decoration: none;
       color: black;
+      font-weight: 300;
+      font-size: .8rem;
+      font-style: normal;
       &:hover {
         text-decoration: underline;
       }
@@ -70,8 +77,24 @@ nav {
     right: -160px;
   }
   #creators .submenu {
-    top: -20px;
+    top: -15px;
     right: -120px;
   }
 
+
+}
+
+.italic {
+  -moz-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(30deg, 0deg);
+  -webkit-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(30deg, 0deg);
+  -o-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(30deg, 0deg);
+  -ms-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(30deg, 0deg);
+  transform: scale(1) rotate(0deg) translate(0px, 0px) skew(30deg, 0deg);
+}
+.non-italic {
+  -moz-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(-30deg, 0deg);
+  -webkit-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(-30deg, 0deg);
+  -o-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(-30deg, 0deg);
+  -ms-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(-30deg, 0deg);
+  transform: scale(1) rotate(0deg) translate(0px, 0px) skew(-30deg, 0deg);
 }

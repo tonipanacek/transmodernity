@@ -18,7 +18,8 @@ body {
   flex-direction: column;
   background-attachment: fixed;
   width: 100%;
-  font-family: AirLand, Arial, sans-serif;
+  font-family: fenwick, sans-serif;
+  font-weight: 400;
   margin: 0;
   -webkit-text-size-adjust: none;
   @include respond-to('large') {
@@ -63,7 +64,8 @@ ul {
 }
 
 p, li {
-  font-family: AirLand;
+  font-family: fenwick, sans-serif;
+  font-weight: 300;
   font-size: .8rem;
   // margin: 0;
 }

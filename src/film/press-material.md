@@ -8,7 +8,7 @@ layout: layouts/default.njk
 bgImage: TM3
 ---
 ## TRANSMODERNITY - THE NEW NOW
-By Luisa Dahringer & Halea Isabelle Kala\
+By Lula Dahringer & Halea Isabelle Kala\
 2019 / 92 minutes
 
 
@@ -27,18 +27,16 @@ We’re an almost all female crew!
 
 ###### SOCIALS
 
-Website: www.transmodernity.org\
-FB: https://www.facebook.com/transmodernitythefilm/\
-IG: @transmodernity
+Website: [www.transmodernity.org](www.transmodernity.org)\
+FB: [https://www.facebook.com/transmodernitythefilm/](https://www.facebook.com/transmodernitythefilm/) \
+IG: [@transmodernity](https://www.instagram.com/transmodernity/)
 
 ###### VOD LINK
 
-www.vimeo.com/ondemand/transmodernity
+[www.vimeo.com/ondemand/transmodernity](www.vimeo.com/ondemand/transmodernity)
 
 
 ###### PRESS KIT
-
-Download here:
 
 [Download EPK](https://drive.google.com/drive/u/1/folders/1QJYoYevk9GL_8xz8WlpQfAyz7pyMbzi-)
 
