@@ -37,8 +37,7 @@ IG: [@transmodernity](https://www.instagram.com/transmodernity/)
 
 
 ###### PRESS KIT
-
-[Download EPK](https://drive.google.com/drive/u/1/folders/1QJYoYevk9GL_8xz8WlpQfAyz7pyMbzi-)
+[Download EPK](https://drive.google.com/file/d/1F4_aNNPlvLmxTd8TNVJpqLRXAKQIq3mf/view?usp=sharing)
 
 
 ###### FILM STILLS

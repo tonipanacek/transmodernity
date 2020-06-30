@@ -18,7 +18,7 @@ Buy the film [here](https://vimeo.com/ondemand/transmodernity) and show it.
 
 [Get in touch with us!](mailto:connect@transmodernity.org)
 
-We can send you info material on how to host a screening for educative purposes or elsewhere
+We can send you info material on how to host a screening for educative purposes or elsewhere.\
 We can also help you to promote your event and are happy to participate in (virtual) Q&A sessions worldwide.
 
 We want the film to inspire as many people as possible, so we thank you in advance for wanting to spread the love ❤︎
