@@ -1,4 +1,5 @@
 @import 'breakpoints';
+$hotpink: #FF00FF;
 nav {
   display: none;
   min-width: 330px;
@@ -32,7 +33,7 @@ nav {
     border-radius: 50%;
     margin-left: 3px;
     &:hover {
-      background: white;
+      background: $hotpink;
       .submenu {
         display: block;
       }
@@ -70,7 +71,7 @@ nav {
   }
   #film .submenu {
     top: -40px;
-    right: -150px;
+    right: -160px;
   }
   #movement .submenu {
     top: -40px;

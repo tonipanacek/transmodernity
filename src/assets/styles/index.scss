@@ -7,6 +7,7 @@
 @import 'film';
 @import 'breakpoints';
 
+$hotpink: #FF00FF;
 // Global styles
 html {
   scroll-behavior: smooth;
@@ -16,8 +17,10 @@ body {
   background-size: cover;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   background-attachment: fixed;
   width: 100%;
+  min-height: 100vh;
   font-family: fenwick, sans-serif;
   font-weight: 400;
   margin: 0;
@@ -92,7 +95,7 @@ p, li {
   padding: 2rem 2rem;
   flex: 1;
   @include respond-to('large') {
-    max-width: 90ch;
+    max-width: 80ch;
   }
   &.Supporters {
     text-align: center;

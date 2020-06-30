@@ -10,20 +10,20 @@ bgImage: TM3
 
 We, the initiators of this project, are three young women from Berlin who share a special bond of friendship and a diverse range of professional skills, which manifested itself in our filmmaking process, contributing to the creation of this holistically ‘transmodern’ production.
 
-## HOW IT ALL STARTED
+### HOW IT ALL STARTED
 Friedi and Halea have known each other since primary school in Berlin. Halea and Lula led parallel lives (same friends, same interests, same parties) until they physically met upon return to their home-city in 2013, after several attempts to meet up during their parallel studies in London.
 
 Halea first encountered the concept of Transmodernity in 2012, when the mother of a close friend published a decisive essay on this philosophical concept, which can be found [here](https://drive.google.com/drive/folders/1b7clp-EPIAQe01cP8bvZZZ6ZPzcQOgS7). Mother and daughter are both in the film. Halea then shared this wide, deep and radical concept with her friends, where it deeply resonated with the Lula and Friedi.
 
 Fast forward to 2016, Friedi, on her own quest in life, wanted to make a research film about changemakers for her degree and asked for assistance. And since Lula and Halea had been working on several independent film productions together, they dreamt about making a film together one day. Over a cozy dinner in an Indian restaurant in Berlin Neukölln, a heavy rainstorm came down on the city. Protected by an umbrella, this was the very moment we three made a pact that we would embark on this journey together.
 
-## THE IDEA IS BORN
+#### THE IDEA IS BORN
 We had no budget and no production company behind us. We just worked with the means we had at hand. The camera? Borrowed from friends. The production car? A friend had just bought a little bus and was in emotional need of a landscape change and hitting the pedal. The gas costs? A tiny travel fund. Covering life costs throughout the production? A very diverse range of jobs we had throughout.
 
 But our motor to keep going was strong: We had a strong urge to take action.
 The question was: How do we make this philosophical concept accessible and tangible? This is why we decided to convey the message through an assemblage of personal stories through the eyes inspiring people, rather than getting deep into theory.
 
-#### THE PROCESS
+##### THE PROCESS
 Everything came together much quicker than expected. As soon as we inquired with the people around us, who were already involved in projects that paved the way to more just and joyful future, we were met with excitement and many open doors. One open door lead us to the next.
 A strong message we want to convey is that the change is happening around you already. You just need to open your eyes to it and look around. Communities and projects are springing up like mushrooms, also in lesser progressive environments. You just have to dig a little deeper. Or if you are living somewhere very remote connect online or incentivise gatherings.
 

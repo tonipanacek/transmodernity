@@ -34,6 +34,7 @@
     border: 1px solid black;
     padding: 4px 12px;
     margin: 0;
+    margin-top: 1rem;
     font-style: italic;
     font-weight: bold;
     text-align: center;
@@ -43,6 +44,9 @@
     &.hidden {
       display: none;
       width: 100%;
+      p {
+        margin : .3rem 0;
+      }
     }
   }
   .maker-social {
@@ -72,13 +76,16 @@
     right: 0;
     z-index: 5;
   }
+  .floating-title {
+    margin-top: 1rem;
+  }
 }
 
 #protagonists {
   .hidden {
     position: absolute;
-    bottom: 20px;
-    right: -10px;
+    bottom: 10px;
+    left: -30px;
     z-index: 5;
   }
 }

@@ -1,6 +1,9 @@
 @import 'breakpoints';
 header {
-  flex: 1 100%;
+  flex: 0;
+  @include respond-to('large') {
+    flex: 1 100%;
+  }
 }
 
 .header-container {

@@ -1,24 +1,13 @@
 @import 'breakpoints';
 .film-container {
   width: 100%;
-  height: 100%;
+  max-height: calc(100vh - 240px);
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-end;
   #film {
-    padding: 56.25% 0 0 0;
+    padding: 50.25% 0 0 0;
     position: relative;
-    @include respond-to('large') {
-      padding: 56.25% 0 0 0;
-    }
-  }
-  #film-text {
-    width: auto;
-    overflow: scroll;
-    margin-top: 1rem;
-    @include respond-to('large') {
-      height: 10vh;
-    }
   }
 }
 
