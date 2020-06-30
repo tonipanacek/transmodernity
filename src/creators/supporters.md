@@ -13,8 +13,8 @@ bgImage: TM2
 Achilleas Gatsopoulos • Achim Vogt • Alexa Clay\
 Alexander Schaper • Amin Benaissa • Anna Schenerstedt\
 Annalisa Guillaume • Annette Brinker • Antje Azraq • Aviya Cohen\
-Axel Weber • Benjamin Mateev • Bianca Bothmann • Boris Langerbein • Charlotte J Ward\
-Christina Fengler • Claudia Schmecht • Darina Petrova\
+Axel Weber • Benjamin Mateev • Bianca Bothmann • Boris Langerbein\
+Charlotte J Ward • Christina Fengler • Claudia Schmecht • Darina Petrova\
 Denhart v. Harling • Doris Kaulingfrecks • Elke Wittboldt-Müller\
 Esther Hartwich • Felix Buchwald • Felix Speiser • Felix Stache\
 Fernando Derks • Florian Horsch • Florian Isenbeck • Friedrich Boomgarden\

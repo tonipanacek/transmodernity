@@ -27,13 +27,13 @@ We’re an almost all female crew!
 
 ###### SOCIALS
 
-Website: [www.transmodernity.org](www.transmodernity.org)\
+Website: [www.transmodernity.org](https://www.transmodernity.org)\
 FB: [https://www.facebook.com/transmodernitythefilm/](https://www.facebook.com/transmodernitythefilm/) \
 IG: [@transmodernity](https://www.instagram.com/transmodernity/)
 
 ###### VOD LINK
 
-[www.vimeo.com/ondemand/transmodernity](www.vimeo.com/ondemand/transmodernity)
+[www.vimeo.com/ondemand/transmodernity](https://www.vimeo.com/ondemand/transmodernity)
 
 
 ###### PRESS KIT
@@ -42,10 +42,10 @@ IG: [@transmodernity](https://www.instagram.com/transmodernity/)
 
 ###### FILM STILLS
 
-[Download Stills](https://drive.google.com/drive/u/1/folders/0B3r3fZ5n7l9FRlNoNEJWY0ZWRGM)
+[Download Stills](https://drive.google.com/drive/folders/0B3r3fZ5n7l9FRlNoNEJWY0ZWRGM?usp=sharing)
 
 
 ###### POSTERS
 
-[Download Posters](https://drive.google.com/drive/u/1/folders/1w-yVuypMKfNe2Bd5BRo3HB0MxeYunl3D)
+[Download Posters](https://drive.google.com/drive/folders/1w-yVuypMKfNe2Bd5BRo3HB0MxeYunl3D?usp=sharing)
 

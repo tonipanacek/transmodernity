@@ -20,7 +20,7 @@ For us, it is a term that can be replaced by many and only serves to help indica
 Transmodernity is Now.
 
 
-[The essay that got everything going](https://drive.google.com/drive/folders/1b7clp-EPIAQe01cP8bvZZZ6ZPzcQOgS7)
+[The essay that got everything going](https://drive.google.com/file/d/1hEyNdAIyn6sBdexz7oIeeDw0N3Q1yjvZ/view?usp=sharing)
 
 
 [An introduction to Transmodernity](https://vimeo.com/69534592)
