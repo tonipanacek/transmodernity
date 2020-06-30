@@ -6,9 +6,10 @@
 @import 'header';
 @import 'film';
 @import 'breakpoints';
+@import 'keyframes';
 
 $hotpink: #FF00FF;
-// Global styles
+
 html {
   scroll-behavior: smooth;
 }
@@ -94,6 +95,7 @@ p, li {
   overflow: visible;
   padding: 2rem 2rem;
   flex: 1;
+  animation: moveInRight 1s ease-out;
   @include respond-to('large') {
     max-width: 80ch;
   }
