@@ -10,6 +10,10 @@ $hotpink: #FF00FF;
   h1 {
     font-size: 12vw;
     margin: 0;
+    .line-break::before {
+      content: "\A";
+      white-space: pre;
+    }
   }
   p {
     margin: 0;
