@@ -37,7 +37,7 @@ $hotpink: #FF00FF;
       font-size: 2rem;
       border: 1px solid black;
       border-radius: 50%;
-      &:hover {
+      &:hover, &:active {
         background: $hotpink;
       }
     }

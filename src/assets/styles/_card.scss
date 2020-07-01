@@ -20,7 +20,7 @@
       background-size: cover;
       background-position: center;
       position: relative;
-      &:hover {
+      &:hover, &:active {
         .hidden {
           display: block;
           z-index: 5;
