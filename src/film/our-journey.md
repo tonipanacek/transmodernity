@@ -8,6 +8,7 @@ layout: layouts/default.njk
 bgImage: TM3
 ---
 
+## Our Journey
 We, the initiators of this project, are three young women from Berlin who share a special bond of friendship and a diverse range of professional skills, which manifested itself in our filmmaking process, contributing to the creation of this holistically ‘transmodern’ production.
 
 ### HOW IT ALL STARTED
