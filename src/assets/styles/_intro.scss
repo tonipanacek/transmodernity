@@ -18,11 +18,11 @@ $hotpink: #FF00FF;
   }
   p {
     margin: 0;
-    font-size: 3vw;
+    font-size: 2rem;
     font-style: italic;
-    // @include respond-to('large') {
-    //   font-size: 2.5rem;
-    // }
+    @include respond-to('large') {
+      font-size: 3vw;
+    }
   }
   .button-container {
     width: 100%;
