@@ -21,7 +21,7 @@ $hotpink: #FF00FF;
     font-size: 2rem;
     font-style: italic;
     @include respond-to('large') {
-      font-size: 3vw;
+      font-size: 2.75vw;
     }
   }
   .button-container {
