@@ -25,20 +25,20 @@ TRANSMODERNITY aims to be an inspiration and appeal for you to re-connect, take 
 
 
 Articles:
-
-[The transformation of our modernity](https://medium.com/femgems/the-trans-formation-of-our-modernity-8068ff4aeac7)
-
+<a href="https://medium.com/femgems/the-trans-formation-of-our-modernity-8068ff4aeac7" target="_blank" rel="noopener noreferrer">The transformation of our modernity</a>
 
 Podcasts:
 
 Indie Talk Film:
-[Spotify](https://spoti.fi/3cFSuE9) //
-[iTunes](https://apple.co/2Ebc5z2) //
-[Website](https://bit.ly/2RYuhBi)
+<a href="https://spoti.fi/3cFSuE9" target="_blank" rel="noopener noreferrer">Spotify</a> //
+ <a href="https://apple.co/2Ebc5z2" target="_blank" rel="noopener noreferrer">iTunes</a> //
+ <a href="https://bit.ly/2RYuhBi" target="_blank" rel="noopener noreferrer">Website</a>
+
 
 Therapy of Dance:
-[Spotify](https://open.spotify.com/episode/6dRjHlQLqgx2aL6FNioxEg?si=sK-CKHSnR4WERgNHv5Dz1Q) //
-[iTunes](https://podcasts.apple.com/us/podcast/therapy-of-dance-in-conversation/id1465784324) //
-[Website](https://wavve.link/gEiBitscG)
+<a href="https://open.spotify.com/episode/6dRjHlQLqgx2aL6FNioxEg?si=sK-CKHSnR4WERgNHv5Dz1Q" target="_blank" rel="noopener noreferrer">Spotify</a> //
+ <a href="https://podcasts.apple.com/us/podcast/therapy-of-dance-in-conversation/id1465784324" target="_blank" rel="noopener noreferrer">iTunes</a> //
+ <a href="https://wavve.link/gEiBitscG" target="_blank" rel="noopener noreferrer">Website</a>
+
 
 

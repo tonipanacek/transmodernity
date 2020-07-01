@@ -16,7 +16,7 @@ Schweitzerstr. 21\
 
 Kontakt
 > Telefon: 0049 1777179336\
-> E-Mail: connect@transmodernity.org
+> E-Mail: <connect@transmodernity.org>
 
 Haftungsausschluss:
 

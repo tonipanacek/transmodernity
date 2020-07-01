@@ -8,8 +8,9 @@ $hotpink: #FF00FF;
   justify-content: space-between;
   min-height: 96vh;
   h1 {
-    font-size: 12vw;
+    font-size: 11vw;
     margin: 0;
+    // animation: slidein 5s;
     .line-break::before {
       content: "\A";
       white-space: pre;
@@ -17,11 +18,11 @@ $hotpink: #FF00FF;
   }
   p {
     margin: 0;
-    font-size: 1.5rem;
+    font-size: 3vw;
     font-style: italic;
-    @include respond-to('large') {
-      font-size: 2.5rem;
-    }
+    // @include respond-to('large') {
+    //   font-size: 2.5rem;
+    // }
   }
   .button-container {
     width: 100%;

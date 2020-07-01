@@ -11,62 +11,59 @@ bgImage: TM9
 ## FILM & READING LIST
 
 ### FILMS
+<a href="http://www.alphabet-film.com/" target="_blank" rel="noopener noreferrer">Alphabet</a>
 
-[Alphabet](http://www.alphabet-film.com/)
+<a href="https://www.youtube.com/watch?v=8yePCpWH3g0" target="_blank" rel="noopener noreferrer">A Quest For Meaning</a>
 
-[A Quest For Meaning](https://www.youtube.com/watch?v=8yePCpWH3g0)
+<a href="https://www.barakasamsara.com/" target="_blank" rel="noopener noreferrer">Baraka / Samsara</a>
 
-[Baraka / Samsara](https://www.barakasamsara.com/)
+<a href="https://www.cowspiracy.com/" target="_blank" rel="noopener noreferrer">Cowspiracy</a>
 
-[Cowspiracy](https://www.cowspiracy.com/)
+<a href="https://www.youtube.com/watch?v=y7EquRwjfeo" target="_blank" rel="noopener noreferrer">Das System Milch</a>
 
-[Das System Milch](https://www.youtube.com/watch?v=y7EquRwjfeo)
+<a href="https://www.youtube.com/watch?v=8gqwpfEcBjI" target="_blank" rel="noopener noreferrer">Earthlings</a>
 
-[Earthlings](https://www.youtube.com/watch?v=8gqwpfEcBjI)
+<a href="https://fantasticfungifilm.vhx.tv/products/fantastic-fungi-2" target="_blank" rel="noopener noreferrer">Fantastic Fungi</a>
 
-[Fantastic Fungi](https://fantasticfungifilm.vhx.tv/products/fantastic-fungi-2)
+<a href="http://www.freelunchsociety.net/" target="_blank" rel="noopener noreferrer">Free Lunch Society</a>
 
-[Free Lunch Society](http://www.freelunchsociety.net/)
+<a href="https://www.youtube.com/watch?v=EgQqGxKKfTU" target="_blank" rel="noopener noreferrer">Human</a>
 
-[Human](https://www.youtube.com/watch?v=EgQqGxKKfTU)
+<a href="https://vimeo.com/191817381" target="_blank" rel="noopener noreferrer">HyperNormalisation</a>
 
-[HyperNormalisation](https://vimeo.com/191817381)
+<a href="https://vimeo.com/ondemand/donnaharaway" target="_blank" rel="noopener noreferrer">Storytelling for Earthly Survival by Donna Haraway</a>
 
-[Storytelling for Earthly Survival by Donna Haraway](https://vimeo.com/ondemand/donnaharaway)
-
-[Tomorrow](https://www.tomorrow-derfilm.de/)
+<a href="https://www.tomorrow-derfilm.de/" target="_blank" rel="noopener noreferrer">Tomorrow</a>
 
 
 #### READING
 
 \*we would like to encourage you to buy from the authors website or order the book in your favorite independent bookshop. That being said, if your financial means are low, some of these can be found in pdf form online.
 
-[Alternative Modernities by Andrew Wachtel](https://www.dukeupress.edu/alternative-modernities)
+<a href="https://www.dukeupress.edu/alternative-modernities" target="_blank" rel="noopener noreferrer">Alternative Modernities by Andrew Wachtel</a>
 
-[Liquid Modernity by Zygmunt Bauman](https://www.thalia.de/shop/home/artikeldetails/ID38133708.html?ProvID=11000523&gclid=EAIaIQobChMIlcfxl7jq6AIVwrTtCh0r2g_wEAQYASABEgIx-vD_BwE)
+<a href="https://www.thalia.de/shop/home/artikeldetails/ID38133708.html?ProvID=11000523&gclid=EAIaIQobChMIlcfxl7jq6AIVwrTtCh0r2g_wEAQYASABEgIx-vD_BwE" target="_blank" rel="noopener noreferrer">Liquid Modernity by Zygmunt Bauman</a>
 
-[Love Ethics by Bell Hooks](https://www.thalia.de/shop/home/artikeldetails/ID99668432.html?ProvID=11000523&gclid=EAIaIQobChMI-YHEgrjq6AIVB7LtCh2EOAE8EAQYASABEgKlKvD_BwE)
+<a href="https://www.thalia.de/shop/home/artikeldetails/ID99668432.html?ProvID=11000523&gclid=EAIaIQobChMI-YHEgrjq6AIVB7LtCh2EOAE8EAQYASABEgKlKvD_BwE" target="_blank" rel="noopener noreferrer">Love Ethics by Bell Hooks</a>
 
-[Peer to Peer the Commons Manifesto by Michel Bauwens, Vasilis Kostakis, and Alex Pazaitis](https://commonstransition.org/peer-to-peer-a-commons-manifesto/)
+<a href="https://commonstransition.org/peer-to-peer-a-commons-manifesto/" target="_blank" rel="noopener noreferrer">Peer to Peer the Commons Manifesto by Michel Bauwens, Vasilis Kostakis, and Alex Pazaitis</a>
 
-[Psychomagic by Alejandro Jodorowsky](https://zabriskie.de/product/psychomagic/)
+<a href="https://zabriskie.de/product/psychomagic/" target="_blank" rel="noopener noreferrer">Psychomagic by Alejandro Jodorowsky</a>
 
-[Sacred Economics by Charles Eisenstein](https://sacred-economics.com/read-online/)
+<a href="https://sacred-economics.com/read-online/" target="_blank" rel="noopener noreferrer">Sacred Economics by Charles Eisenstein</a>
 
-[Small is beautiful. Economics as if people mattered by E.F. Schumacher](https://www.thalia.de/shop/home/artikeldetails/ID143559326.html?ProvID=11000523&gclid=EAIaIQobChMInp2sr5Hq6AIVTLDtCh0uHQ8mEAQYASABEgLaqvD_BwE
-)
+<a href="https://www.thalia.de/shop/home/artikeldetails/ID143559326.html?ProvID=11000523&gclid=EAIaIQobChMInp2sr5Hq6AIVTLDtCh0uHQ8mEAQYASABEgLaqvD_BwE" target="_blank" rel="noopener noreferrer">Small is beautiful. Economics as if people mattered by E.F. Schumacher</a>
 
-[You Are, Therefore I Am: A Declaration of Dependence by Satish Kumar](https://www.resurgence.org/shop/you-are-therefore-i-am-pr-1.html)
+<a href="https://www.resurgence.org/shop/you-are-therefore-i-am-pr-1.html" target="_blank" rel="noopener noreferrer">You Are, Therefore I Am: A Declaration of Dependence by Satish Kumar</a>
 
-[Sozialrevolution by Robert Reich, Yanis Varoufakis, BErik Brrynjolfsson, Michael D. Tanner Andrew L. Stern, Natali Foster, Georg Hasler, Albert Wenger, Dirk Helbing, Gerald Hüther, Philip Kovce, Armin Steuernagel und Börris Hornemann](https://www.campus.de/buecher-campus-verlag/wirtschaft-gesellschaft/politik/sozialrevolution-10875.html)
+<a href="https://www.campus.de/buecher-campus-verlag/wirtschaft-gesellschaft/politik/sozialrevolution-10875.html" target="_blank" rel="noopener noreferrer">Sozialrevolution by Robert Reich, Yanis Varoufakis, BErik Brrynjolfsson, Michael D. Tanner Andrew L. Stern, Natali Foster, Georg Hasler, Albert Wenger, Dirk Helbing, Gerald Hüther, Philip Kovce, Armin Steuernagel und Börris Hornemann</a>
 
 
-[The Green New Deal by Naomi Klein](http://www.hoffmann-und-campe.de/buch-info/warum-nur-ein-green-new-deal-unseren-planeten-retten-kann-ebook-11957/)
+<a href="http://www.hoffmann-und-campe.de/buch-info/warum-nur-ein-green-new-deal-unseren-planeten-retten-kann-ebook-11957/" target="_blank" rel="noopener noreferrer">The Green New Deal by Naomi Klein</a>
 
-[The Chalice and the Blade by Riane Eisler](https://rianeeisler.com/)
+<a href="https://rianeeisler.com/" target="_blank" rel="noopener noreferrer">The Chalice and the Blade by Riane Eisler</a>
 
-[The Coronation by Charles Eisenstein](https://charleseisenstein.org/essays/the-coronation/)
+<a href="https://charleseisenstein.org/essays/the-coronation/" target="_blank" rel="noopener noreferrer">The Coronation by Charles Eisenstein</a>
 
-[Transmodernity and Interculturality: An Interpretation from the Perspective of Philosophy of Liberation by Enrique Dussel](https://pdfs.semanticscholar.org/b081/74f264a9cad6d5d5d05ea3a904fe357247ee.pdf?_ga=2.145553396.119490963.1587034024-2043061477.1587034024
-)
+<a href="https://pdfs.semanticscholar.org/b081/74f264a9cad6d5d5d05ea3a904fe357247ee.pdf?_ga=2.145553396.119490963.1587034024-2043061477.1587034024" target="_blank" rel="noopener noreferrer">Transmodernity and Interculturality: An Interpretation from the Perspective of Philosophy of Liberation by Enrique Dussel</a>
 

@@ -27,25 +27,23 @@ We’re an almost all female crew!
 
 ###### SOCIALS
 
-Website: [www.transmodernity.org](https://www.transmodernity.org)\
-FB: [https://www.facebook.com/transmodernitythefilm/](https://www.facebook.com/transmodernitythefilm/) \
-IG: [@transmodernity](https://www.instagram.com/transmodernity/)
+Website: <a href="https://www.transmodernity.org">www.transmodernity.org</a>\
+FB: <a href="https://www.facebook.com/transmodernitythefilm/" target="_blank" rel="noopener noreferrer">https://www.facebook.com/transmodernitythefilm/</a>\
+IG: <a href="https://www.instagram.com/transmodernity/" target="_blank" rel="noopener noreferrer">@transmodernity</a>
 
 ###### VOD LINK
-
-[www.vimeo.com/ondemand/transmodernity](https://www.vimeo.com/ondemand/transmodernity)
+<a href="https://www.vimeo.com/ondemand/transmodernity" target="_blank" rel="noopener noreferrer">www.vimeo.com/ondemand/transmodernity</a>
 
 
 ###### PRESS KIT
-[Download EPK](https://drive.google.com/file/d/1F4_aNNPlvLmxTd8TNVJpqLRXAKQIq3mf/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1VSt351N6yJkko1b5pd6LFvQb6ebPFKGA/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download EPK</a>
 
 
 ###### FILM STILLS
 
-[Download Stills](https://drive.google.com/drive/folders/0B3r3fZ5n7l9FRlNoNEJWY0ZWRGM?usp=sharing)
+<a href="https://drive.google.com/drive/folders/0B3r3fZ5n7l9FRlNoNEJWY0ZWRGM?usp=sharing" target="_blank" rel="noopener noreferrer">Download Stills</a>
 
 
 ###### POSTERS
-
-[Download Posters](https://drive.google.com/drive/folders/1w-yVuypMKfNe2Bd5BRo3HB0MxeYunl3D?usp=sharing)
+<a href="https://drive.google.com/drive/folders/1w-yVuypMKfNe2Bd5BRo3HB0MxeYunl3D?usp=sharing" target="_blank" rel="noopener noreferrer">Download Posters</a>
 

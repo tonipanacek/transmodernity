@@ -11,7 +11,7 @@ bgImage: TM9
 
 Share your (or someone else’s) inspiring project with us!
 
-Send us your response to the following:
+[Send us](mailto:connect@transmodernity.org) your response to the following:
 
 
 - _name:_

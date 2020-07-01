@@ -14,7 +14,7 @@ Host a screening for your community: your school, university, co-living project,
 
 ### How?
 
-Buy the film [here](https://vimeo.com/ondemand/transmodernity) and show it.
+Buy the film <a href="https://vimeo.com/ondemand/transmodernity" target="_blank" rel="noopener noreferrer">here</a> and show it.
 
 [Get in touch with us!](mailto:connect@transmodernity.org)
 

@@ -16,11 +16,34 @@
 @keyframes slidein {
   from {
     margin-left: 100%;
-    width: 300%;
+    width: 100%;
   }
 
   to {
     margin-left: 0%;
     width: 100%;
   }
+}
+
+@keyframes rotate {
+  0% {
+      transform: rotateX(0deg) rotateY(10deg) rotateZ(0deg);
+      // background-color:#fff;
+      }
+  25% {
+      transform: rotateX(10deg) rotateY(20deg) rotateZ(90deg);
+      // background-color:#ff0;
+      }
+  50% {
+      transform: rotateX(50deg) rotateY(-150deg) rotateZ(180deg);
+      // background-color:#0ff;
+      }
+  75% {
+      transform: rotateX(10deg) rotateY(20deg) rotateZ(270deg);
+      // background-color:#f0f;
+      }
+  100% {
+      transform: rotateX(0deg) rotateY(10deg) rotateZ(360deg);
+      // background-color:#fff;
+      }
 }

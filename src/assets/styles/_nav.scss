@@ -1,5 +1,6 @@
 @import 'breakpoints';
 $hotpink: #FF00FF;
+$neongreen: #54FB4B;
 nav {
   display: none;
   min-width: 330px;
@@ -36,7 +37,7 @@ nav {
       background: $hotpink;
     }
     &:hover {
-      background: $hotpink;
+      background: $neongreen;
       .submenu {
         display: block;
       }
@@ -93,12 +94,12 @@ nav {
   -webkit-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(30deg, 0deg);
   -o-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(30deg, 0deg);
   -ms-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(30deg, 0deg);
-  transform: scale(1) rotate(0deg) translate(0px, 0px) skew(30deg, 0deg);
+  transform: scale(1) rotate(0deg) translate(0px, 0px) skew(20deg, 0deg);
 }
 .non-italic {
   -moz-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(-30deg, 0deg);
   -webkit-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(-30deg, 0deg);
   -o-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(-30deg, 0deg);
   -ms-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(-30deg, 0deg);
-  transform: scale(1) rotate(0deg) translate(0px, 0px) skew(-30deg, 0deg);
+  transform: scale(1) rotate(0deg) translate(0px, 0px) skew(-20deg, 0deg);
 }

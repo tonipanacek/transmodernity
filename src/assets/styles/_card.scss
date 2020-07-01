@@ -11,8 +11,8 @@
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
-    height: 235px;
-    width: 225px;
+    height: 220px;
+    width: 220px;
     margin-bottom: 2rem;
     .image {
       width: 100%;
@@ -39,7 +39,7 @@
     font-weight: bold;
     text-align: center;
     a {
-      color: black;
+      font-size: .95rem;
     }
     &.hidden {
       display: none;
@@ -53,6 +53,7 @@
     img {
       height: 1.5rem;
       width: 1.5rem;
+      padding: .25rem .25rem 0 .25rem;
     }
   }
 
@@ -66,14 +67,14 @@
     height: auto;
     width: 45%;
     .image {
-      height: 35vh;
+      height: 50vh;
     }
   }
   .hidden {
     position: absolute;
     max-width: 100%;
-    top: 0;
-    right: 0;
+    top: 10px;
+    right: 20px;
     z-index: 5;
   }
   .floating-title {

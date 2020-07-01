@@ -19,9 +19,7 @@ For us, it is a term that can be replaced by many and only serves to help indica
 
 Transmodernity is Now.
 
+<a href="https://drive.google.com/file/d/1hEyNdAIyn6sBdexz7oIeeDw0N3Q1yjvZ/view?usp=sharing" target="_blank" rel="noopener noreferrer">The essay that got everything going</a>
 
-[The essay that got everything going](https://drive.google.com/file/d/1hEyNdAIyn6sBdexz7oIeeDw0N3Q1yjvZ/view?usp=sharing)
-
-
-[An introduction to Transmodernity](https://vimeo.com/69534592)
+<a href="https://vimeo.com/69534592" target="_blank" rel="noopener noreferrer">An introduction to Transmodernity</a>
 
