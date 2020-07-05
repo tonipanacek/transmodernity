@@ -2,25 +2,47 @@
 $hotpink: #FF00FF;
 $neongreen: #54FB4B;
 nav {
-  display: none;
-  min-width: 330px;
-  position: -webkit-sticky;
-  position: sticky;
+  position: absolute;
   top: 0;
+  right: 0;
   @include respond-to('large') {
+    min-width: 330px;
     display: block;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
+}
+
+.nav-toggle {
+  display: block;
+  @include respond-to('large') {
+    display: none;
+  }
+  .nav-toggle-bar {
+    font-style: italic;
+    color: black;
+    background-color: transparent;
+    padding: .75rem 2rem;
+    font-size: 3vh;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-left: 3px;
   }
 }
 
 .main-nav {
+  display: none;
   margin: 0;
   width: 100%;
-  display: flex;
   flex: 1 100%;
   height: 60vh;
   flex-direction: column;
   align-items: flex-start;
   justify-content: space-around;
+  @include respond-to('large') {
+    display: flex;
+  }
   a {
     text-decoration: none;
   }

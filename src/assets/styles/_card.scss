@@ -75,8 +75,11 @@
     position: absolute;
     max-width: 100%;
     top: 10px;
-    right: 20px;
+    right: 0;
     z-index: 5;
+    @include respond-to('large') {
+      right: 20px;
+    }
   }
   .floating-title {
     margin-top: 1rem;
