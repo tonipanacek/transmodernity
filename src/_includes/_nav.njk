@@ -1,30 +1,30 @@
-<nav aria-label="Main Navigation">
+<nav aria-label="Main Navigation" id="nav" class="nav">
   <div class="nav-toggle">
     <div class="nav-toggle-bar">menu</div>
   </div>
-  <ul class="main-nav">
-    <li class="has-submenu nav-button {% if page.url.match('film') %}active{% endif %}" id="film">film
-      <ul class="submenu">
+  <ul class="main-nav" hidden>
+    <li class="has-submenu non-italic-10 nav-button {% if page.url.match('film') %}active{% endif %}" id="film">film
+      <ul class="submenu italic-10">
         {% for entry in collections.film %}
           <li {% if entry.url == page.url %} class="current" {%endif%}><a href="{{ entry.url | url }}">{{ entry.data.title }}</a></li>
         {% endfor %}
         <li><a href="https://vimeo.com/ondemand/transmodernity/408968792" target="_blank" rel="noopener noreferrer">Watch &nearr;</a></li>
       </ul>
     </li>
-    <li class="has-submenu nav-button italic {% if page.url.match('movement') %}active{% endif %}" id="movement">movement
-      <ul class="submenu non-italic">
+    <li class="has-submenu nav-button italic-20 {% if page.url.match('movement') %}active{% endif %}" id="movement">movement
+      <ul class="submenu non-italic-20">
         {% for entry in collections.movement %}
           <li {% if entry.url == page.url %} class="current" {%endif%}><a href="{{ entry.url | url }}">{{ entry.data.title }}</a></li>
         {% endfor %}
       </ul>
     </li>
-    <li class="has-submenu nav-button {% if page.url.match('creators') %}active{% endif %}" id="creators">creators
-      <ul class="submenu">
+    <li class="has-submenu non-italic-10 nav-button {% if page.url.match('creators') %}active{% endif %}" id="creators">creators
+      <ul class="submenu italic-10">
         {% for entry in collections.creators %}
           <li {% if entry.url == page.url %} class="current" {%endif%}><a href="{{ entry.url | url }}">{{ entry.data.title }}</a></li>
         {% endfor %}
       </ul>
     </li>
-    <li class="nav-button italic {% if page.url.match('connect') %}active{% endif %}" id="connect"><a href="/connect">connect</a></li>
+    <li class="nav-button italic-20 {% if page.url.match('connect') %}active{% endif %}" id="connect"><a href="/connect">connect</a></li>
   </ul>
 </nav>

@@ -60,6 +60,7 @@ h3,h4,h5,h6 {
 
 a {
   color: black;
+  word-break: break-word;
 }
 
 ul {
@@ -95,7 +96,7 @@ p, li {
   border: 1px solid black;
   overflow: visible;
   padding: 2rem 2rem;
-  flex: 1;
+  flex-grow: 1;
   animation: moveInRight 1s ease-out;
   @include respond-to('large') {
     max-width: 80ch;
