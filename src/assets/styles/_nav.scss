@@ -12,6 +12,7 @@ nav {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
+    background: transparent;
   }
 }
 
@@ -26,7 +27,7 @@ nav {
     z-index: -1;
     justify-content: space-evenly;
     padding-top: 3rem;
-    visibility: hidden;
+    display: none;
   @include respond-to('large') {
     margin: 0;
     width: 100%;
@@ -73,7 +74,7 @@ nav {
     text-align: center;
     border: 1px solid black;
     border-radius: 50%;
-    padding: 40px;
+    padding: 20px;
     text-decoration: none;
     background: white;
     &:hover,
@@ -150,7 +151,7 @@ nav {
     }
   }
   #connect {
-    width: 30%;
+    width: 23%;
     text-align: center;
     margin-right: 5rem;
     align-self: flex-end;
@@ -222,7 +223,7 @@ nav {
     text-align: center;
     border: 1px solid black;
     border-radius: 50%;
-    padding: 40px;
+    padding: 20px;
     text-decoration: none;
     background: white;
     &:hover,
@@ -243,7 +244,7 @@ nav {
 }
 
 .visible {
-  visibility: visible;
+  display: flex;
 }
 
 .fixed {

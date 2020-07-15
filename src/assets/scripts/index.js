@@ -13,7 +13,6 @@ menuToggle.addEventListener('click', e => {
 
   // toggle a11y attributes and active class
   menuToggle.setAttribute('aria-expanded', String(isMenuOpen));
-  menu.hidden = !isMenuOpen;
   nav.classList.toggle('nav--open');
   nav.classList.toggle('fixed');
   menu.classList.toggle('visible');
