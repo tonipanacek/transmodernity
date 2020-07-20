@@ -96,6 +96,8 @@ p, li {
   overflow: visible;
   padding: 2rem 2rem;
   flex: 1;
+  position: relative;
+  z-index: -1;
   animation: moveInRight 1s ease-out;
   @include respond-to('large') {
     max-width: 80ch;

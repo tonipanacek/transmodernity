@@ -21,7 +21,7 @@ $hotpink: #FF00FF;
     margin: 0;
     font-size: 1.5rem;
     font-style: italic;
-    animation: moveInRight 2s linear;
+    animation: moveInRight 2s ease;
     @include respond-to('large') {
       font-size: 3vw;
     }
@@ -40,7 +40,7 @@ $hotpink: #FF00FF;
       font-size: 2.5rem;
       border: 3px solid black;
       border-radius: 50%;
-      animation: rotate 5s linear;
+      animation: rotate 5s ease;
       // animation-delay: 3s;
       &:hover, &:active {
         background: $hotpink;
