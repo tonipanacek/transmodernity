@@ -11,6 +11,6 @@ bgImage: TM11
 ---
 ## We love to hear from you.
 
-Get in touch with your questions, feedback, inspirations, screenings, workshops bookings and ideas to collaborate!
+Get in touch with your questions, feedback, inspirations, screenings or workshops bookings and ideas to collaborate!
 
 You can reach out to us at [connect@transmodernity.org](mailto:connect@transmodernity.org)
