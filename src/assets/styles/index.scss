@@ -96,6 +96,8 @@ p, li {
   overflow: visible;
   padding: 2rem 2rem;
   flex: 1;
+  position: relative;
+  z-index: -1;
   animation: moveInRight 1s ease-out;
   @include respond-to('large') {
     max-width: 80ch;
@@ -107,4 +109,23 @@ p, li {
       margin: 0 auto;
     }
   }
+}
+
+
+.main-content#movement {
+-webkit-animation: scale-in-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+          animation: scale-in-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+.main-content#film {
+-webkit-animation: scale-in-left 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+          animation: scale-in-left 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+
+.main-content#creators {
+-webkit-animation: scale-up-center 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+          animation: scale-up-center 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+.main-content#connect {
+-webkit-animation: rotate-in-2-cw 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+          animation: rotate-in-2-cw 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 }

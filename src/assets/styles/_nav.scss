@@ -6,7 +6,7 @@ nav {
   top: 0;
   right: 0;
   @include respond-to('large') {
-    min-width: 330px;
+    min-width: 325px;
     display: block;
     position: -webkit-sticky;
     position: sticky;
