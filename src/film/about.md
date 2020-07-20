@@ -4,15 +4,15 @@ description: A film by Lula Dahringer & Halea Isabelle Kala
 length: 2019 / 92 minutes
 date: 2019-01-17
 tags:
-  - film
+- film
 layout: layouts/default.njk
 bgImage: TM3
+
 ---
-
 ## TRANSMODERNITY - THE NEW NOW
-By Lula Dahringer & Halea Isabelle Kala\
-2019 / 92 minutes
 
+By Lula Dahringer & Halea Isabelle Kala  
+2019 / 92 minutes
 
 A documentary about changemakers that challenge and transform the current system by exploring new possibilities for transitioning into a new paradigm with alternative social, economic and cultural approaches. Transmodernity is the new now.
 
@@ -20,25 +20,3 @@ It raises the question of how reality can be possible in a different way. It is 
 The film touches upon the need to reinvestigate our education, consumption, relation to ourselves and much more. Told through the eyes of activists, artists, educators, entrepreneurs, and social workers who are paving the way for the old system to be transformed, the film calls for a shared vision of a fundamental socio-cultural change.
 They stand as protagonists of this time of transition - and although at first glimpse they do not have much in common, they are connected through the sparkle in their eyes and their strong sense of feeling alive, as they contribute to holistic sociocultural change, each in their own way.
 TRANSMODERNITY aims to be an inspiration and appeal for you to re-connect, take responsibility, dream radically and act upon it.
-
-#### PAST PRESS
-
-
-Articles:
-<a href="https://medium.com/femgems/the-trans-formation-of-our-modernity-8068ff4aeac7" target="_blank" rel="noopener noreferrer">The transformation of our modernity</a>
-
-Podcasts:
-
-Indie Talk Film:
-<a href="https://spoti.fi/3cFSuE9" target="_blank" rel="noopener noreferrer">Spotify</a> //
- <a href="https://apple.co/2Ebc5z2" target="_blank" rel="noopener noreferrer">iTunes</a> //
- <a href="https://bit.ly/2RYuhBi" target="_blank" rel="noopener noreferrer">Website</a>
-
-
-Therapy of Dance:
-<a href="https://open.spotify.com/episode/6dRjHlQLqgx2aL6FNioxEg?si=sK-CKHSnR4WERgNHv5Dz1Q" target="_blank" rel="noopener noreferrer">Spotify</a> //
- <a href="https://podcasts.apple.com/us/podcast/therapy-of-dance-in-conversation/id1465784324" target="_blank" rel="noopener noreferrer">iTunes</a> //
- <a href="https://wavve.link/gEiBitscG" target="_blank" rel="noopener noreferrer">Website</a>
-
-
-
