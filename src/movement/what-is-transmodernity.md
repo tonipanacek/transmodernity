@@ -1,6 +1,6 @@
 ---
 title: What is Transmodernity?
-description:
+description: Transmodernity is the new now.
 date: 2019-01-16
 tags:
   - movement
