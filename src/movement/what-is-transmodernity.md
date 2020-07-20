@@ -6,6 +6,7 @@ tags:
   - movement
 layout: layouts/default.njk
 bgImage: TM9
+cssClass: what-is-transmodernity
 ---
 ## WHAT IS TRANSMODERNITY ?
 

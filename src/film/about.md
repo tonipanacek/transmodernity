@@ -7,11 +7,11 @@ tags:
 - film
 layout: layouts/default.njk
 bgImage: TM3
-
+cssClass: about
 ---
 ## TRANSMODERNITY - THE NEW NOW
 
-By Lula Dahringer & Halea Isabelle Kala  
+By Lula Dahringer & Halea Isabelle Kala
 2019 / 92 minutes
 
 A documentary about changemakers that challenge and transform the current system by exploring new possibilities for transitioning into a new paradigm with alternative social, economic and cultural approaches. Transmodernity is the new now.

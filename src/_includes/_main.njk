@@ -1,4 +1,4 @@
-<div class="main-content {% if title %}{{ title }}{% endif %}" {% if tags %} id="{{tags[0]}}"{% endif %}>
+<div class="main-content {% if cssClass %}{{ cssClass }}{% endif %}" {% if tags %} id="{{tags[0]}}"{% endif %}>
  {{ content | safe }}
  {% if contactForm %}
   {% include '_form.njk' %}

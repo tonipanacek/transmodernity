@@ -104,7 +104,7 @@ p, li {
     padding: 2rem 2rem;
     max-width: 80ch;
   }
-  &.Supporters {
+  &.supporters {
     text-align: center;
     p {
       width: 80%;
@@ -124,20 +124,40 @@ p, li {
   }
 }
 
-.main-content#movement {
+.organize-a-screening {
 -webkit-animation: scale-in-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
           animation: scale-in-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 }
-.main-content#film {
+.partners, .journey {
 -webkit-animation: scale-in-left 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
           animation: scale-in-left 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 }
 
-.main-content#creators {
+.what-is-transmodernity{
 -webkit-animation: scale-up-center 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
           animation: scale-up-center 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 }
-.main-content#connect {
+
+.contribute, .supporters {
+-webkit-animation: scale-in-ver-top 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+          animation: scale-in-ver-top 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+.connect, .press {
 -webkit-animation: rotate-in-2-cw 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
           animation: rotate-in-2-cw 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+
+.workshops, .about {
+  -webkit-animation: flip-in-hor-bottom 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+          animation: flip-in-hor-bottom 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+
+.journey, .manual-to-change {
+  -webkit-animation: slide-in-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+          animation: slide-in-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+
+.reading-list, .screenings {
+  -webkit-animation: slide-in-left .7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+          animation: slide-in-left .7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 }

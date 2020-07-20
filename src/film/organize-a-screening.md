@@ -6,6 +6,7 @@ tags:
   - film
 layout: layouts/default.njk
 bgImage: TM3
+cssClass: organize-a-screening
 ---
 
 ## Let’s collaborate!

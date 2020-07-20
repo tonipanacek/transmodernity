@@ -6,4 +6,5 @@ tags:
   - movement
 layout: layouts/insta.njk
 bgImage: TM9
+cssClass: whats-up
 ---

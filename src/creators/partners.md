@@ -6,6 +6,7 @@ tags:
   - creators
 layout: layouts/default.njk
 bgImage: TM2
+cssClass: partners
 ---
 
 ## OUR PARTNERS

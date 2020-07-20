@@ -6,6 +6,7 @@ tags:
   - film
 layout: layouts/default.njk
 bgImage: TM3
+cssClass: press
 ---
 ## TRANSMODERNITY - THE NEW NOW
 By Lula Dahringer & Halea Isabelle Kala\

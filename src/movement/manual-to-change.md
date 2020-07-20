@@ -6,6 +6,7 @@ tags:
   - movement
 layout: layouts/default.njk
 bgImage: TM9
+cssClass: manual-to-change
 ---
 
 ## 10 THINGS YOU CAN START WITH TODAY

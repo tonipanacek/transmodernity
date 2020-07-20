@@ -3,6 +3,7 @@ layout: layouts/default.njk
 title: IMPRINT
 description: TBD
 bgImage: TM1
+cssClass: imprint
 ---
 
 ## ​IMPRINT
