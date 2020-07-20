@@ -1,5 +1,6 @@
 // const foo = (() => Promise.resolve().then(() => console.log('Hello world')))();
 
+// mobile menu code
 const toggle = document.querySelector('.nav-toggle');
 const menu = document.querySelector('.main-nav');
 const nav = document.querySelector('#nav');
@@ -19,3 +20,13 @@ toggle.addEventListener('click', event => {
   }
 });
 
+// image "hovering" on mobile code
+const cards = document.querySelectorAll('.card');
+cards.forEach(card => {
+  card.addEventListener('touchstart', event => {
+    card.focus();
+  })
+  card.addEventListener('touchend', event => {
+    card;
+  })
+})
