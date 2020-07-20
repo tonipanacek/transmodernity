@@ -32,11 +32,6 @@ sections:
   create: all
   match: "**/*"
   exclude: site.yml
-- type: heading
-  label: People
-- type: document
-  path: _data/protagonistList
-  label: Protagonists
 upload_dir: transmodernity
 public_path: transmodernity
 front_matter_path: ''
