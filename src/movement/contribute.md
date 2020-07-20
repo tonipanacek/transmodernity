@@ -23,7 +23,6 @@ Share your (or someone else’s) inspiring project with us!
 * _drive:_
 * _vision:_
 
-If we dig your project, we will make an introduction on our Instagram Account.
-This may take a little while to be curated. Please be patient with us.
+If we dig your project, we will make an introduction on our Instagram Account (or we'll add it to our Film & Reading List on the website). This may take a little while to be curated. Please be patient with us.
 
-We look forward to your submissions ♥
+We look forward to your submissions!
