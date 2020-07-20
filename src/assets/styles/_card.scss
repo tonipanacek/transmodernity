@@ -21,7 +21,9 @@
       background-position-y: 30%;
       background-position-x: center;
       position: relative;
-      &:hover, &:active {
+      &:hover,
+      &:active,
+      &:focus {
         .hidden {
           display: block;
           z-index: 5;
