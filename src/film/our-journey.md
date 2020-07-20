@@ -20,7 +20,7 @@ Halea first encountered the concept of Transmodernity in 2012, when the mother o
 
 Fast forward to 2016, Friedi, on her own quest in life, wanted to make a research film about changemakers for her degree and asked for assistance. And since Lula and Halea had been working on several independent film productions together, they dreamt about making a film together one day. Over a cozy dinner in an Indian restaurant in Berlin Neukölln, a heavy rainstorm came down on the city. Protected by an umbrella, this was the very moment we three made a pact that we would embark on this journey together.
 
-#### BIRTHING THE IDEA
+#### THE IDEA IS BORN
 
 We had no budget and no production company behind us. We just worked with the means we had at hand. The camera? Borrowed from friends. The production car? A friend had just bought a little bus and was in emotional need of a landscape change and hitting the pedal. The gas costs? A tiny travel fund. Covering life costs throughout the production? A very diverse range of jobs we had throughout.
 
