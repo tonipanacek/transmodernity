@@ -117,6 +117,9 @@ p, li {
   @include respond-to('large') {
     max-width: 80ch;
   }
+  #pixlee_lightbox_iframe {
+    display: none;
+  }
 }
 
 .main-content#movement {
