@@ -11,14 +11,6 @@
     color: black;
     font-size: 6vw;
     letter-spacing: 10px;
-    .line-break::before {
-      content: "\A";
-      white-space: pre;
-      @include respond-to('large') {
-        content: "";
-      }
-    }
-
   }
   .contact {
     text-align: center;
@@ -33,5 +25,13 @@
     @include respond-to('large') {
       display: block;
     }
+  }
+}
+
+.line-break::before {
+  content: "\A";
+  white-space: pre;
+  @include respond-to('large') {
+    content: "";
   }
 }
