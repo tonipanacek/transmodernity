@@ -27,7 +27,7 @@ nav {
 
 .nav-toggle {
   display: block;
-  width: 135px;
+  width: 100px;
   float: right;
   padding: 1rem;
   text-align: center;
@@ -38,7 +38,7 @@ nav {
     font-style: italic;
     color: black;
     background-color: transparent;
-    padding: .75rem 2rem;
+    padding: .75rem 1rem;
     font-size: 3vh;
     border: 1px solid black;
     border-radius: 50%;
@@ -151,8 +151,6 @@ nav {
     top: -15px;
     right: -120px;
   }
-
-
 }
 
 .italic {
