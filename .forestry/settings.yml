@@ -4,12 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: src/_data
-  label: People
-  create: all
-  match: "**/*"
-  exclude: site.yml
 - type: heading
   label: Content
 - type: directory
@@ -32,12 +26,17 @@ sections:
   label: Connect
   create: all
   match: "**/*"
+- type: directory
+  path: src/_data
+  label: People
+  create: all
+  match: "**/*"
+  exclude: site.yml
 - type: heading
   label: People
 - type: document
-  path: src/_data/protagonistList
+  path: _data/protagonistList
   label: Protagonists
-  match: "**/*"
 upload_dir: transmodernity
 public_path: transmodernity
 front_matter_path: ''
