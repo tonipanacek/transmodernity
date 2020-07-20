@@ -5,7 +5,7 @@ $hotpink: #FF00FF;
   padding: 1rem 2rem;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: center;
   min-height: 96vh;
   h1 {
     font-size: 11vw;
@@ -32,6 +32,7 @@ $hotpink: #FF00FF;
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: 2rem;
     .intro-btn {
       color: black;
       text-decoration: none;
