@@ -3,7 +3,29 @@ new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
-sections: 
+sections:
+- type: heading
+  label: Content
+- type: directory
+  path: src/film
+  label: Film
+  create: all
+  match: "**/*"
+- type: directory
+  path: src/movement
+  label: Movement
+  create: all
+  match: "**/*"
+- type: directory
+  path: src/creators
+  label: Creators
+  create: all
+  match: "**/*"
+- type: directory
+  path: src/connect
+  label: Connect
+  create: all
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
