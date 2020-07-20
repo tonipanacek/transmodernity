@@ -12,7 +12,7 @@ bgImage: TM9
 
 Let’s collaborate!
 
-We would love to host a fun as well as transformational workshop at your school, university, co-living project, co-working space, eco village, conference, agency, and music and art festival.
+We would love to host a workshop at your school, university, co-living project, co-working space, eco village, conference, agency, and music and art festival.
 
 We offer the following Workshop formats:
 
