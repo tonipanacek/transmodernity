@@ -94,12 +94,14 @@ p, li {
   background: white;
   border: 1px solid black;
   overflow: visible;
-  padding: 2rem 2rem;
+  padding: 2rem 1rem;
   flex: 1;
   position: relative;
   z-index: -1;
   animation: moveInRight 1s ease-out;
+  word-break: break-all;
   @include respond-to('large') {
+    padding: 2rem 2rem;
     max-width: 80ch;
   }
   &.Supporters {
