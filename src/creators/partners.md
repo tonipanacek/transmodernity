@@ -1,6 +1,6 @@
 ---
 title: Partners
-description: TBD
+description:
 date: 2019-03-16
 tags:
   - creators

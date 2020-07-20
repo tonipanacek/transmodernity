@@ -1,6 +1,6 @@
 ---
 title: What's Up'?
-description: TBD
+description:
 date: 2019-06-16
 tags:
   - movement

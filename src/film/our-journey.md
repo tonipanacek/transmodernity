@@ -1,6 +1,6 @@
 ---
 title: Our Journey
-description: TBD
+description:
 date: 2019-02-16
 tags:
 - film

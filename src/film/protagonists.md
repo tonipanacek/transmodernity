@@ -1,6 +1,6 @@
 ---
 title: Protagonists
-description: TBD
+description:
 date: 2019-03-16
 tags:
   - film

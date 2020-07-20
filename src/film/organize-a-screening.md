@@ -1,6 +1,6 @@
 ---
 title: Organize a Screening
-description: TBD
+description:
 date: 2019-05-10
 tags:
   - film

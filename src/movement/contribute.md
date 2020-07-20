@@ -1,6 +1,6 @@
 ---
 title: Contribute
-description: TBD
+description:
 date: 2019-05-16
 tags:
 - movement

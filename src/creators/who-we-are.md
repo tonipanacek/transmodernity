@@ -1,6 +1,6 @@
 ---
 title: Who Are We?
-description: TBD
+description:
 date: 2019-01-16
 tags:
   - creators

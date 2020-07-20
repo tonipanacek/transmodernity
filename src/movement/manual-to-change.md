@@ -1,6 +1,6 @@
 ---
 title: Manual to Change
-description: TBD
+description:
 date: 2019-02-16
 tags:
   - movement
