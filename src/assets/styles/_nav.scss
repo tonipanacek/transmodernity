@@ -20,7 +20,8 @@ nav {
     right: 0;
     left: 0;
     bottom: 0;
-    background: white;
+    background-image: url('https://res.cloudinary.com/tonipanoche/image/upload/v1595238456/transmodernity/TM4_xd3n0b.jpg');
+    background-size: cover;
     z-index: 1;
   }
 }
@@ -33,6 +34,9 @@ nav {
   text-align: center;
   @include respond-to('large') {
     display: none;
+  }
+  &:hover {
+    cursor: pointer;
   }
   .nav-toggle-bar {
     font-style: italic;
