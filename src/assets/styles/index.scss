@@ -111,6 +111,14 @@ p, li {
   }
 }
 
+.insta-container {
+  overflow: visible;
+  flex: 1;
+  @include respond-to('large') {
+    max-width: 80ch;
+  }
+}
+
 
 .main-content#movement {
 -webkit-animation: scale-in-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
