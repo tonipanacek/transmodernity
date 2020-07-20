@@ -99,7 +99,6 @@ p, li {
   position: relative;
   z-index: -1;
   animation: moveInRight 1s ease-out;
-  word-break: break-all;
   @include respond-to('large') {
     padding: 2rem 2rem;
     max-width: 80ch;
