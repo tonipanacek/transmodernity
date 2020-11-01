@@ -41,13 +41,13 @@ cssClass: reading-list
 
 \*we would like to encourage you to buy from the authors website or order the book in your favorite independent bookshop. That being said, if your financial means are low, some of these can be found in pdf form online.
 
-<a href="https://www.dukeupress.edu/alternative-modernities" target="_blank" rel="noopener noreferrer">Alternative Modernities by Andrew Wachtel</a>
+<a href="https://www.dukeupress.edu/alternative-modernities" target="_blank" rel="noopener [noreferrer">Alternative Modernities by Andrew Wachtel</a>](https://www.robhopkins.net/the-book/)
 
-<a href="[https://www.robhopkins.net/the-book/](https://www.robhopkins.net/the-book/ "https://www.robhopkins.net/the-book/")" target="_blank" rel="noopener noreferrer">From What Is To What If by Rob Hopkins</a>
+[From What Is To What If by Rob Hopkins](https://www.robhopkins.net/the-book/)
 
 <a href="https://www.thalia.de/shop/home/artikeldetails/ID38133708.html?ProvID=11000523&gclid=EAIaIQobChMIlcfxl7jq6AIVwrTtCh0r2g_wEAQYASABEgIx-vD_BwE" target="_blank" rel="noopener noreferrer">Liquid Modernity by Zygmunt Bauman</a>
 
-<a href="[https://www.taschen.com/pages/en/catalogue/architecture/all/04698/facts.julia_watson_lotek_design_by_radical_indigenism.htm](https://www.taschen.com/pages/en/catalogue/architecture/all/04698/facts.julia_watson_lotek_design_by_radical_indigenism.htm "https://www.taschen.com/pages/en/catalogue/architecture/all/04698/facts.julia_watson_lotek_design_by_radical_indigenism.htm")" target="_blank" rel="noopener noreferrer">Lo—TEK by Julia Watson</a>
+[Lo—TEK. Design by Radical Indigenism by Julia Watson](https://www.taschen.com/pages/en/catalogue/architecture/all/04698/facts.julia_watson_lotek_design_by_radical_indigenism.htm)
 
 <a href="https://www.thalia.de/shop/home/artikeldetails/ID99668432.html?ProvID=11000523&gclid=EAIaIQobChMI-YHEgrjq6AIVB7LtCh2EOAE8EAQYASABEgKlKvD_BwE" target="_blank" rel="noopener noreferrer">Love Ethics by Bell Hooks</a>
 
@@ -69,4 +69,4 @@ cssClass: reading-list
 
 <a href="https://pdfs.semanticscholar.org/b081/74f264a9cad6d5d5d05ea3a904fe357247ee.pdf?_ga=2.145553396.119490963.1587034024-2043061477.1587034024" target="_blank" rel="noopener noreferrer">Transmodernity and Interculturality: An Interpretation from the Perspective of Philosophy of Liberation by Enrique Dussel</a>
 
-<a href="[https://www.resurgence.org/shop/you-are-therefore-i-am-pr-1.html](https://www.resurgence.org/shop/you-are-therefore-i-am-pr-1.html "https://www.resurgence.org/shop/you-are-therefore-i-am-pr-1.html")" target="_blank" rel="noopener noreferrer">You Are, Therefore I Am: A Declaration of Dependence by Satish Kumar</a>
+[You Are, Therefore I Am: A Declaration of Dependence by Satish Kumar](https://www.resurgence.org/shop/you-are-therefore-i-am-pr-1.html)
