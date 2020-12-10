@@ -83,7 +83,7 @@ p, li {
 .flex-container {
   display: flex;
   justify-content: space-between;
-  overflow: scroll;
+  overflow: auto;
   margin: 0 2rem;
   padding-top: 10px;
   @include respond-to('large') {
