@@ -1,5 +1,5 @@
 ---
-title: What's Up'?
+title: What's Up?
 description:
 date: 2019-06-16
 tags:

@@ -6,6 +6,10 @@ const menu = document.querySelector('.main-nav');
 const nav = document.querySelector('#nav');
 let isOpen = false;
 
+const yearSpan = document.querySelector('#year');
+const currentYear = new Date().getFullYear();
+yearSpan.innerText = currentYear;
+
 toggle.addEventListener('click', event => {
   if (!isOpen) {
     nav.classList.add('mobile');
