@@ -1,0 +1,14 @@
+backend:
+  name: git-gateway   # or github, gitlab, etc.
+  # branch: main
+
+media_folder: "src/assets/uploads"   # where files are saved in the repo
+public_folder: "/assets/uploads"     # URL path used in published content
+
+collections:
+  - name: "movement"
+    label: "Movement"
+    folder: "src/movements"
+    create: true
+    fields:
+      - { label: "Body", name: "body", widget: "markdown" }
